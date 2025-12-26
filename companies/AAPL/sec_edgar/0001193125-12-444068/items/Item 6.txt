@@ -1,0 +1,30 @@
+
+Item 6.   Selected Financial Data
+---------------------------------
+ The information set forth below for the five years ended September 29, 2012, is not necessarily indicative of results of future operations, and should be read in conjunction with Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and related notes thereto included in Part II, Item 8 of this Form 10-K to fully understand factors that may affect the comparability of the information presented below (in millions, except number of shares, which are reflected in thousands and per share amounts). 
+ 
+
+                                                         2012                 2011                 2010                2009                2008             
+Net sales                                                          $156,508             $108,249             $65,225             $42,905             $37,491
+Net income                                                          $41,733              $25,922             $14,013              $8,235              $6,119
+Earnings per share:                                                                                                                                         
+Basic                                                                $44.64               $28.05              $15.41               $9.22               $6.94
+Diluted                                                              $44.15               $27.68              $15.15               $9.08               $6.78
+Cash dividends declared per share (a)                                 $2.65                   $0                  $0                  $0                  $0
+Shares used in computing earnings per share:                                                                                                                
+Basic                                                               934,818              924,258             909,461             893,016             881,592
+Diluted                                                             945,355              936,645             924,712             907,005             902,139
+Total cash, cash equivalents and marketable securities             $121,251              $81,570             $51,011             $33,992             $24,490
+Total assets                                                       $176,064             $116,371             $75,183             $47,501             $36,171
+Total long-term obligations (b)                                     $16,664              $10,100              $5,531              $3,502              $1,745
+Total liabilities                                                   $57,854              $39,756             $27,392             $15,861             $13,874
+Total shareholders’ equity                                         $118,210              $76,615             $47,791             $31,640             $22,297
+
+(a)   The Company declared a dividend of $2.65 per share in the fourth quarter of 2012.
+---------------------------------------------------------------------------------------
+
+(b)   The Company did not have any long-term debt during the five years ended September 29, 2012. Long-term obligations exclude non-current deferred
+                                                                         revenue.                                                                   
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+24

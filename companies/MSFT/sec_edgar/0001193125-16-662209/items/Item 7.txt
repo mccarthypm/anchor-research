@@ -1,0 +1,30 @@
+ITEM 7. MANAGEMENT’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following Management’s Discussion and Analysis (“ MD& A”) is intended to help the reader understand the results of operations
+and financial condition of Microsoft Corporation. MD& A is provided as a supplement to, and should be read in conjunction with, our financial statements and the accompanying Notes to Financial Statements.
+
+OVERVIEW
+
+Microsoft is a
+technology company whose mission is to empower every person and every organization on the planet to achieve more. Our strategy is to build best-in-class platforms and productivity services for a mobile-first, cloud-first world. We develop, license,
+and support a wide range of software products, services, and devices that deliver new opportunities, greater convenience, and enhanced value to people’s lives.
+
+We generate revenue by licensing and supporting an array of software products, by offering a wide range of services, including cloud-based services to consumers and businesses, by designing, manufacturing, and
+selling devices that integrate with our cloud-based services, and by delivering relevant online advertising to a global audience. Our most significant expenses are related to compensating employees; designing, manufacturing, marketing, and selling
+our products and services; datacenter costs in support of our cloud-based services; and income taxes.
+
+Much of our focus in fiscal year
+2016 was toward transforming our organization to support our strategy of building best-in-class platforms and productivity services for a mobile-first, cloud-first world. We achieved product development milestones, implemented organizational
+changes, and made strategic and tactical moves to support the three central ambitions that support our strategy: reinventing productivity and business processes; building the intelligent cloud platform; and creating more personal computing.
+
+Highlights from fiscal year 2016 included:
+
+  Commercial cloud annualized revenue run rate* exceeded $12.1 billion.  
+
+  Office 365 Consumer subscribers increased to 23.1 million.  
+
+29
+
+Table of Contents
+
+PART II

@@ -1,0 +1,15 @@
+Foreign Currency Risk
+
+We transact business globally in multiple currencies and hence have foreign currency risks related to our revenue, costs of revenue and operating expenses denominated in currencies other than the U.S. dollar (primarily the euro, Japanese yen, Canadian dollar, Chinese yuan and Norwegian krone). In general, we are a net receiver of currencies other than the U.S. dollar for our foreign subsidiaries. Accordingly, changes in exchange rates and, in particular, a strengthening of the U.S. dollar have in the past, and may in the future, negatively affect our revenue and other operating results as expressed in U.S. dollars as we do not typically hedge foreign currency.
+
+We have also experienced, and will continue to experience, fluctuations in our net income (loss) as a result of gains (losses) on the settlement and the re-measurement of monetary assets and liabilities denominated in currencies that are not the local currency (primarily consisting of our intercompany and cash and cash equivalents balances). For the year ended December 31, 2019, we recognized a net foreign currency gain of $48 million in other (expense) income, net, with our largest re-measurement exposures from the U.S. dollar, British pound and Canadian dollar as our subsidiaries are denominated in various local currencies. For the year ended December 31, 2018, we recognized a net foreign currency gain of $2 million in other (expense) income, net, with our largest re-measurement exposures from the euro, New Taiwan dollar and Canadian dollar. 
+
+We considered the historical trends in foreign currency exchange rates and determined that it is reasonably possible that adverse changes in foreign currency exchange rates of 10% for all currencies could be experienced in the near-term. These changes were applied to our total monetary assets and liabilities denominated in currencies other than our local currencies at the balance sheet date to compute the impact these changes would have had on our net income (loss) before income taxes. These changes would have resulted in an adverse impact of $362 million at December 31, 2019 and $176 million at December 31, 2018 assuming no foreign currency hedging.
+
+Interest Rate Risk
+
+We are exposed to interest rate risk on our borrowings that bear interest at floating rates. Pursuant to our risk management policies, in certain cases, we utilize derivative instruments to manage some of this risk. We do not enter into derivative instruments for trading or speculative purposes. A hypothetical 10% change in our interest rates would have increased or decreased our interest expense for the years ended December 31, 2019 and 2018 by $8 million and $9 million, respectively.
+
+60
+
+ITEM 8.

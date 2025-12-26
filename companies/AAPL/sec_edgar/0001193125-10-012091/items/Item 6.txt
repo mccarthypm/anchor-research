@@ -1,0 +1,24 @@
+
+Item 6.   Selected Financial Data
+---------------------------------
+ The Consolidated Balance Sheets as of September 26, 2009 and September 27, 2008, and the Consolidated Statements of Operations for the years ended September 26, 2009, September 27, 2008, and September 29, 2007 have been amended to reflect the impact of the retrospective adoption of the new accounting principles, which has been reflected in the following table. There was no impact from the retrospective adoption of the new accounting principles for the years ended September 30, 2006 and September 24, 2005. Those years predated the Company’s introduction of iPhone and Apple TV. 
+ The information set forth below for the five years ended September 26, 2009, is not necessarily indicative of results of future operations, and should be read in conjunction with Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and related notes thereto included in Part II, Item 8 of this Form 10-K to fully understand factors that may affect the comparability of the information presented below (in millions, except share amounts which are reflected in thousands and per share amounts). 
+ 
+
+                                                   2009                             2008                2007                2006                2005
+Net sales                                                    $42,905             $37,491             $24,578             $19,315             $13,931
+Net income                                                    $8,235              $6,119              $3,495              $1,989              $1,328
+Earnings per common share:                                                                                                                          
+Basic                                                          $9.22               $6.94               $4.04               $2.36               $1.64
+Diluted                                                        $9.08               $6.78               $3.93               $2.27               $1.55
+Cash dividends declared per common share                          $—                  $—                  $—                  $—                  $—
+Shares used in computing earnings per share:                                                                                                        
+Basic                                                        893,016             881,592             864,595             844,058             808,439
+Diluted                                                      907,005             902,139             889,292             877,526             856,878
+Cash, cash equivalents and marketable securities             $33,992             $24,490             $15,386             $10,110              $8,261
+Total assets                                                 $47,501             $36,171             $24,878             $17,205             $11,516
+Long-term debt                                                    $—                  $—                  $—                  $—                  $—
+Total liabilities                                            $15,861             $13,874             $10,347              $7,221              $4,088
+Shareholders’ equity                                         $31,640             $22,297             $14,531              $9,984              $7,428
+ 
+3

@@ -1,0 +1,574 @@
+Item 1. Business
+
+Company Background
+
+Apple Inc. and its wholly-owned subsidiaries (collectively "Apple" or the "Company") design, manufacture, and market personal computers, portable digital music players,
+and mobile communication devices and sells a variety of related software, services, peripherals, and networking solutions. The Company sells its products worldwide through its online stores, its
+retail stores, its direct sales force, and third-party wholesalers, resellers, and value-added resellers. In addition, the Company sells a variety of third-party Macintosh ("Mac"), iPod and iPhone
+compatible products, including application software, printers, storage devices, speakers, headphones, and various other accessories and peripherals through its online and retail stores. The Company
+sells to education, consumer, creative professional, business, and government customers. The Company's fiscal year is the 52 or
+53-week period that ends on the last Saturday of September. Unless otherwise stated, all information presented in this Form 10-K is based on the Company's fiscal
+calendar.
+
+Business Strategy
+
+The Company is committed to bringing the best personal computing, portable digital music and mobile communication experience to students, educators, creative professionals,
+businesses, government agencies, and consumers through its innovative hardware, software, peripherals, services, and Internet offerings. The Company's business strategy leverages its unique ability to
+design and develop its own operating system, hardware, application software, and services to provide its customers new products and solutions with superior ease-of-use,
+seamless integration, and innovative industrial design. The Company believes continual investment in research and development is critical to the development and enhancement of innovative products and
+technologies. In addition to evolving its personal computers and related solutions, the Company continues to capitalize on the convergence of the personal computer, digital consumer electronics and
+mobile communications by creating and refining innovations, such as the iPod, iPhone, iTunes Store, and Apple TV. The Company's strategy also includes expanding its distribution network to effectively
+reach more of its targeted customers and provide them with a high-quality sales and post-sales support experience.
+
+Digital Lifestyle
+
+The Company believes that for both professionals and consumers the personal computer has become the center of an evolving digital lifestyle by integrating with and enhancing
+the utility of advanced digital devices such as the Company's iPods, iPhones, digital video and still cameras, televisions, personal digital assistants, and other digital devices. The attributes of
+the personal computer that enable this functionality include a high-quality user interface, easy access to relatively inexpensive data storage, the ability to run complex applications, and
+the ability to connect easily to a wide variety of other digital devices and to the Internet. The Company is the only participant in the personal computer industry that controls the design
+
+1
+
+and
+development of the entire personal computer - from the hardware and operating system to sophisticated software applications. This, along with its products' creative industrial designs,
+intuitive ease-of-use, and built-in graphics, multimedia and networking capabilities, positions the Company to offer innovative integrated digital lifestyle
+solutions.
+
+Expanded Distribution
+
+The Company believes a high-quality buying experience with knowledgeable salespersons who can convey the value of the Company's products and services greatly
+enhances its ability to attract
+and retain customers. The Company sells many of its products and resells certain third-party products in most of its major markets directly to consumers, education customers, and businesses through
+its retail and online stores. The Company has also invested in programs to enhance reseller sales, including the Apple Sales Consultant Program, which places Apple employees and contractors at
+selected third-party reseller locations. The Company believes providing direct contact with its targeted customers is an efficient way to demonstrate the advantages of its Mac computers and other
+products over those of its competitors.
+
+At
+the end of fiscal 2007, the Company had opened a total of 197 of its own retail stores, including 174 stores in the U. S. and a total of 23 stores in Canada, Japan, U. K. and Italy. The
+Company has typically located its stores at high-traffic locations in quality shopping malls and urban shopping districts.
+
+One
+of the goals of the retail initiative is to expand the Company's installed base through sales to customers who currently do not already own the Company's products. By operating its own stores and
+locating them in desirable high-traffic locations, the Company is better positioned to control the customer buying experience and attract new customers. The stores are designed to simplify
+and enhance the presentation and marketing of the Company's products and related solutions. To that end, retail store configurations have evolved into various sizes in order to accommodate
+market-specific demands. The stores employ experienced and knowledgeable personnel who provide product advice and certain support services. The stores offer a wide selection of third-party hardware,
+software, and various other accessory products and peripherals selected to complement the Company's own products.
+
+Education
+
+Throughout its history, the Company has focused on the use of technology in education and has been committed to delivering tools to help educators teach and students learn. The
+Company believes effective integration of technology into classroom instruction can result in higher levels of student achievement, especially when used to support collaboration, information access,
+and the expression and representation of student thoughts and ideas. The Company has designed a range of products and services to address the needs of education customers. These products and services
+include the Company's Mac computers, iPods, iTunes, and Apple TV, in addition to various solutions for video creation and editing, wireless networking, professional development, and
+one-to-one (1:1) learning. A 1:1 learning solution typically consists of a portable computer for every student and teacher along with the installation of a wireless network.
+
+Creative Professionals
+
+Creative professionals constitute one of the Company's most important markets for both hardware and software products. This market is also important to many third-party
+developers who provide Mac-compatible hardware and software solutions. Creative customers utilize the Company's products for a variety of activities including digital video and film
+production and editing; digital video and film special effects, compositing and titling; digital still photography and workflow
+management; graphic design, publishing, and print production; music creation and production; audio production and sound design; and web design, development, and administration.
+
+The
+Company designs its high-end hardware solutions, including servers, desktops, and portable Mac systems, to incorporate the power, expandability, and features desired by creative
+professionals. The Company's operating system, Mac OS X, incorporates powerful graphics and audio technologies and
+
+2
+
+features
+developer tools to optimize system and application performance when running creative solutions provided by the Company or third-party developers.
+
+Other
+
+In addition to consumer, education and creative professional markets, the Company provides hardware and software products and solutions for customers in the information
+technology, science, business, and government markets.
+
+Business Organization
+
+The Company manages its business primarily on a geographic basis. The Company's reportable operating segments consist of the Americas, Europe, Japan, and Retail. The Americas,
+Europe, and Japan reportable segments do not include activities related to the Retail segment. The Americas segment includes both North and South America. The Europe segment includes European
+countries as well as the Middle East and Africa. The Retail segment operates Apple-owned retail stores in the U. S., Canada, Japan, the U. K. and Italy. Each reportable geographic operating segment and
+the Retail operating segment provide similar hardware and software products and similar services. Further information regarding the Company's operating segments may be found in Part II,
+Item 7 of this Form 10-K under the heading "Segment Operating Performance," and in Part II, Item 8 of this Form 10-K in Notes to Consolidated
+Financial Statements at Note 9, "Segment Information and Geographic Data."
+
+Products
+
+The Company offers a range of personal computing products including desktop and portable personal computers, related devices and peripherals, and various third-party hardware
+and software products. In addition, the Company offers software products including Mac OS® X, the Company's proprietary operating system software for the Mac®;
+server software and related
+solutions; professional application software; and consumer, education and business oriented application software. The Company also designs, develops and markets to Mac and Windows users its family of
+iPod® digital music players and its iPhone™ mobile communication device, along with related accessories and services including the online distribution of third-party content
+through the Company's iTunes Store™. The Company's primary products are discussed below.
+
+Hardware Products
+
+The Company offers a range of personal computing products including desktop and notebook computers, server and storage products, related devices and peripherals, and various
+third-party hardware products. The Company's Mac desktop and portable systems feature Intel microprocessors, the Company's Mac OS X Version 10.5 Leopard™
+("Mac OS X Leopard") operating system that became available in October 2007 and iLife® suite of software for creation and management of digital photography, music,
+movies, DVDs, and website. The Company's transition from PowerPC to Intel microprocessors for Mac systems was completed in August 2006, and its transition for Xserve® was completed
+in November 2006. There are potential risks and uncertainties associated with the transition to Intel microprocessors, which are further discussed in Item 1A of this
+Form 10-K under the heading "Risk Factors."
+
+MacBook® Pro
+
+The
+MacBook Pro family of notebook computers is designed for professionals and advanced consumer users. First introduced in January 2006, the MacBook Pro includes a 15-inch or
+17-inch widescreen display, a built-in iSight® video camera, Front Row™ with the Apple Remote, and the MagSafe® magnetic power adapter. In
+June 2007, the Company updated its MacBook Pro models to include the latest Intel Core 2 Duo processors and the Nvidia GeForce 8600M GT graphics controller. MacBook Pro includes
+up to 4GB of 667MHz DDR2 main memory with an 800 MHz frontside bus, a Serial ATA hard drive, and a slot-loading double-layer SuperDrive®. In addition, every MacBook Pro
+features a 1-inch thin aluminum enclosure and includes AirPort Extreme® 802.11n wireless networking, Bluetooth 2.0+EDR, Gigabit
+
+3
+
+Ethernet,
+USB 2.0 and FireWire® ports, audio input and output ports, a DVI video-out port, an ExpressCard/34 slot, scrolling trackpad, and backlit keyboard.
+
+MacBook®
+
+The
+MacBook is designed for consumer and education users. First introduced in May 2006, the MacBook includes a 13-inch widescreen display, a built-in iSight video camera
+and the MagSafe magnetic power adapter. In May 2007, the Company updated its MacBook
+models with faster Intel Core 2 Duo processors running at up to 2.16GHz, Intel integrated graphics, support for up to 4GB of 667MHz DDR2 main memory, a Serial ATA hard drive, and a
+slot-loading Combo optical drive or double-layer SuperDrive. In addition, MacBook models include AirPort Extreme 802.11n wireless networking, Bluetooth 2.0+EDR, Gigabit
+Ethernet, USB 2.0 and FireWire ports, audio input and output ports, a mini-DVI video output port, and scrolling trackpad.
+
+Mac® Pro
+
+The
+Mac Pro desktop computer is targeted at business and professional users and is designed to meet the performance, expansion, and networking needs of the most demanding Mac user. The Mac Pro
+features two Intel Xeon dual-core or quad-core processors running at up to 3.0GHz, with 4MB and 8MB of shared Level 2 cache and independent 1.33GHz
+front-side buses, 667MHz fully buffered memory, and a 256-bit wide memory architecture. The Mac Pro also features a direct attach storage solution for snap-in
+installation of up to four 750GB Serial ATA hard drives for a total of 3TB of internal storage. Every Mac Pro includes three full-length PCI Express expansion slots and one
+double-wide PCI Express graphics slot to support double-wide graphics cards. The Mac Pro also includes dual Ethernet ports, optical digital input and output ports, analog audio
+input and output ports, and multiple FireWire 400, FireWire 800 and USB 2.0 ports.
+
+iMac®
+
+The
+iMac desktop computer is targeted at consumer, education and business customers. In August 2007, the Company updated the iMac to include 2.0GHz, 2.4GHz or 2.8GHz Intel Core 2 Duo
+processors, up to 4 GB of 667 MHz DDR2 SDRAM, a faster graphics card using ATI Radeon HD 2400 XT or ATI Radeon HD 2600 PRO graphics, and slot-loading
+double-layer SuperDrive. All iMac models include a built-in iSight video camera, AirPort Extreme 802.11n wireless networking, Bluetooth 2.0+EDR, built-in Gigabit
+Ethernet, USB 2.0 and Fire Wire ports, and mini-DVI video out.
+
+Mac® mini
+
+In
+February 2006, the Company introduced the Intel-based Mac mini that includes Front Row with the Apple Remote. The Mac mini offers 1GB of 667MHz memory expandable to 2GB and either a 1.83GHz
+or 2.0GHz Intel processor. Every Mac mini includes built-in Gigabit Ethernet, AirPort Extreme 802.11g wireless networking, Bluetooth 2.0+EDR, a total of four USB 2.0 ports,
+and one FireWire 400 port. Mac mini includes a full-size DVI interface and a VGA-out adapter to connect to a variety of displays, including televisions, and features
+both analog and digital audio outputs.
+
+Xserve® and Xserve RAID Storage System
+
+Xserve
+is a 1U rack-mount server powered by two dual-core 64-bit Intel Xeon processors running at up to 3.0GHz and features Mac OS® X
+Server 10.5, which became available in October 2007. Xserve supports up to 32GB of RAM, remote management and internal serial attached SCSI ("SAS") or serial ATA ("SATA") storage drives
+of up to 2.25TB, with optional internal hardware RAID. The Company's Xserve RAID storage system delivers up to 10.5TB of Fiber Channel attached hardware RAID storage capacity and also expanded support
+for Mac OS X and heterogeneous environments.
+
+4
+
+Music Products and Services
+
+The Company offers its iPod® line of portable digital music players and related accessories to Mac and Windows users. All iPods work with the Company's
+iTunes® digital music management software ("iTunes software") available for both Mac and Windows-based computers.
+
+The
+Company also provides an online service to distribute third-party music, audio books, music videos, short films, television shows, movies, podcasts and iPod games through its iTunes Store. In
+addition to the Company's own iPod accessories, thousands of third-party iPod compatible products are available, either through the Company's online and retail stores or from third parties, including
+portable and desktop speaker systems, headphones, car radio solutions, voice recorders, cables and docks, power supplies and chargers, and carrying cases and armbands.
+
+iPod® shuffle
+
+The
+iPod shuffle weighs half an ounce and features an aluminum design and a built-in clip. The iPod shuffle contains 1GB of flash memory capable of holding up to 240 songs and provides up
+to 12 hours of battery life. The iPod shuffle includes a shuffle switch feature that allows users to listen to their music in random order or in the order of their playlist synced through
+iTunes. iPod shuffle works with iTunes' patent-pending AutoFill option that automatically selects songs to fill the iPod shuffle from a user's iTunes library.
+
+iPod® nano
+
+In
+September 2007, the Company introduced a new version of its flash-memory-based iPod nano featuring a larger two-inch display with 204 pixels per inch and a new user interface
+featuring Cover Flow®. The new iPod nano comes in an all metal design made with anodized aluminum and polished stainless steel and has up to 24 hours of battery life. The iPod nano
+includes the Click Wheel, a smaller and lighter design and brighter color screen than its predecessor, and new iPod games. The iPod nano is available in 4GB and 8GB configurations and in a variety of
+colors.
+
+iPod® classic
+
+In
+September 2007, the Company introduced the new iPod classic. The iPod classic is an upgraded version of the original iPod, the Company's hard-drive based portable digital music
+player. The iPod classic is available in an 80GB model capable of holding up to 20,000 songs or 100 hours of video and a 160GB model capable of holding up to 40,000 songs or 200 hours of
+video. The iPod classic features up to 40 hours of battery life and includes a new all-metal enclosure and a 2.5-inch color screen that can display album artwork,
+photos, and video content including music videos, video and audio podcasts, short films, television shows, movies, and games.
+
+iPod® touch
+
+In
+September 2007, the Company introduced the iPod touch, a new flash-memory-based iPod that is 8 mm thin and features the Company's Multi-Touch™ user interface on a
+3.5-inch widescreen display. The iPod touch includes Wi-Fi wireless networking and additional applications such as Safari™, Google Search or Yahoo! oneSearch, and
+the new iTunes Wi-Fi Music Store. The iPod touch is available in 8GB and 16 GB configurations and features up to 22 hours of audio playback and up to five hours of video
+playback. The iPod touch's user interface is based on the Multi-Touch™ display allowing users to control the device with a touchscreen.
+
+iTunes® 7
+
+iTunes
+is a digital media player application for playing, downloading, and organizing digital music and video files. iTunes is available for both Mac and Windows-based computers. Within iTunes, the
+user can connect to the iTunes Store™, a service that allows customers to find, purchase, and download third-party digital music, audio books, music videos, short films, television shows
+and movies, and iPod games. In
+
+5
+
+September 2007,
+the Company introduced the iTunes Wi-Fi Music Store offering users the ability to browse, search, preview, purchase, and download songs and albums from their iPod
+touch or iPhone over a Wi-Fi network. Customers can search the contents of the store catalog to locate works by title, artist, or album, or browse the entire contents of the store by
+genre. Originally introduced in the U. S. in April 2003, the iTunes Store now serves customers in 22 countries.
+
+iPhone™
+
+In
+January 2007, the Company announced iPhone™, a handheld device that combines in a single product a mobile phone, a widescreen iPod
+with touch controls, and an Internet communications device. iPhone's user interface is based on the Multi-Touch™ display allowing users to control the device with a touchscreen. iPhone
+lets users make calls by tapping on a name or number in their address book, a favorites list, or a call log as well as select and listen to voicemail messages in any order. iPhone also allows users to
+purchase and download songs and albums from the iTunes Wi-Fi Music Store directly onto their iPhone and play their iTunes® content, including movies, television shows, music,
+photos and podcasts, with the touch of a finger. iPhone features desktop-class email, web browsing, searching, and maps. iPhone is compatible with a Mac or PC and automatically syncs content from a
+user's iTunes library, as well as contacts, bookmarks, and email accounts. iPhone is a quad-band GSM phone featuring EDGE and Wi-Fi wireless technologies for data networking,
+Bluetooth 2.0, a built-in 2 megapixel camera, a 3.5-inch touch screen with 480-by-320 resolution at 160 pixels per inch, and providing up
+to 8 hours of talk time, 6 hours of Internet use, 7 hours of video playback or 24 hours of audio playback. AT& T Mobility LLC ("AT& T") is the exclusive
+U. S. cellular network carrier for iPhone. The Company began shipping iPhone in the U. S. on June 29, 2007. On November 9, 2007, the Company began shipping iPhone in the U. K. and
+Germany, and expects to ship the iPhone in France on November 29, 2007. O2 Limited ("O2"), T-Mobile International AG & Co. KG ("T-Mobile"), and France
+Telecom ("Orange") are the exclusive cellular network carriers for iPhone in the U. K., Germany, and France, respectively. The Company has entered into agreements with each exclusive cellular network
+carrier related to cellular network services and the purchase and sale of iPhone and iPhone related products. These agreements entitle the Company to receive certain payments from these carriers.
+
+In
+addition to the Company's own iPhone accessories, third-party iPhone compatible products are available, either through the Company's online and retail stores or from third parties, including
+headsets, cables and docks, power supplies, and carrying cases.
+
+Peripheral Products
+
+The Company sells a variety of Apple-branded and third-party Mac-compatible peripheral products directly to end-users through its retail and online
+stores, including printers, storage devices, computer memory, digital video and still cameras, and various other computing products and supplies.
+
+Displays
+
+The
+Company manufactures a family of widescreen flat panel displays including the 30-inch Apple Cinema HD Display™, a widescreen active-matrix LCD with
+2560-by-1600 pixel resolution, the 23-inch Apple Cinema HD Display with 1920-by-1200 pixel resolution and the
+20-inch Apple Cinema Display® with 1680-by-1050 pixel resolution. These displays feature built-in dual FireWire and dual USB 2.0
+ports and use the industry standard DVI interface for a pure digital connection with the Company's latest Mac Pro, MacBook Pro, Mac mini and MacBook systems. The Cinema Displays feature an aluminum
+design with a thin bezel, suspended by an aluminum stand that allows viewing angle adjustment.
+
+Apple TV™
+
+In
+January 2007, the Company announced Apple TV, a device that permits users to wirelessly play iTunes content on a widescreen television. Compatible with a Mac or Windows-based computer, Apple
+TV includes either a 40GB or 160GB hard drive capable of storing up to 200 hours of video, 36,000 songs,
+
+6
+
+25,000
+photos, or a combination of each and is capable of displaying content in high definition resolution up to 720p. Apple TV connects to a broad range of widescreen televisions and home theater
+systems and comes standard with high-definition multimedia interface, component video, and both analog and digital optical audio ports. Using high-speed AirPort®
+802.11n wireless networking, Apple TV can auto-sync content from one computer or stream content from up to five additional computers directly to a television. The Company began shipping
+Apple TV in March 2007.
+
+Software Products and Computer Technologies
+
+The Company offers a range of software products for education, creative professional, consumer, business and government customers, including Mac OS X, the
+Company's proprietary operating system software for the Mac; server software and related solutions; professional application software; and consumer, education, and business oriented application
+software.
+
+Operating System Software
+
+Mac OS® X
+is built on an open-source UNIX-based foundation. Mac OS X Leopard is the sixth major release of Mac OS X and
+became available in October 2007. Leopard includes 300 new features and introduces a new desktop with Stacks, a new way to easily access files from the Dock; a redesigned Finder™
+that lets users quickly browse and share files between multiple Macs; Quick Look, a new way to instantly see files without opening an application; Spaces™, an intuitive new feature used to
+create groups of applications and instantly switch between them; and Time Machine™, an effortless way to automatically back up everything on a Mac.
+
+Application Software
+
+iLife® '08
+
+In
+August 2007, the Company introduced iLife '08, the latest release of its consumer-oriented digital lifestyle application suite, which features iPhoto®, iDVD®,
+GarageBand®, iWeb™, iTunes® and iMovie® '08. All of these applications are Universal, meaning that they run natively on both Intel and
+PowerPC-based Mac computers ("Universal").
+
+iPhoto®
+is the Company's consumer-oriented digital photo software application. iPhoto '08 adds new features for organizing and browsing photos, including event-based grouping, new
+professional quality image editing tools, and enables publishing to. Mac Web Gallery.. Mac Web Gallery, is fully integrated with iPhoto '08 and iMovie '08, allowing. Mac users to share
+photos and movies over the web. iPhoto '08 features print, photo book, greeting card, and calendar layout tools and integrated online ordering services.
+
+iMovie® '08
+is a new version of the Company's consumer-oriented digital video editing software application. iMovie® '08 provides new tools for quick movie
+creation and video enhancements, including transitions, titles, music and sound effects. Projects in iMovie® '08 can also be published to. Mac Web Gallery.
+
+iDVD®
+is the Company's consumer-oriented software application that enables users to turn iMovie files, QuickTime® files, and digital pictures into interactive DVDs that can be
+played on most consumer DVD players. iDVD '08 features 10 new Apple-designed menu themes in both widescreen (16:9) and standard (4:3) formats.
+
+GarageBand®
+is the Company's consumer-oriented music creation software application that allows users to play, record and create music using a simple interface. With GarageBand, software
+instruments, digital audio recordings and looping tracks can be arranged and edited to create songs. GarageBand '08 allows users to export finished songs to their iTunes library, or publish a
+podcast through iWeb and. Mac that includes artwork, sound effects, and music jingles.
+
+7
+
+iWeb™
+allows users to create online photo albums, blogs and podcasts, and to customize websites using editing tools. iWeb'08 offers new features to make websites more interactive by adding
+live web widgets, which are snippets of live content from other websites, such as Google Maps, targeted ads using Google AdSense and photos or movies from. Mac Web Galleries.
+
+iLife '08
+also includes iTunes®, the Company's digital music jukebox software application that allows users to purchase a variety of digital content available through the Company's
+iTunes Store. iTunes organizes content using searching, browsing, and playlists, and provides integration with the complete family of iPods and iPhone.
+
+iWork™ '08
+
+In
+August 2007, the Company introduced iWork '08, a new version of the Company's integrated productivity suite designed to help users create, present, and publish documents,
+presentations and spreadsheets. iWork '08 includes updates to Pages® '08 for word processing and page layout, Keynote® '08 for presentations, and
+introduces Numbers '08 for spreadsheets. All of these programs are Universal and feature advanced image tools, including enhanced photo masking, resizable picture frames and edges, and Instant
+Alpha, which easily removes the background of a photo.
+
+Final Cut Studio® 2
+
+In
+April 2007, the Company introduced Final Cut Studio® 2, an upgraded version of the Company's video production suite designed for professionals. Final Cut Studio 2
+features Final Cut Pro® 6 for video editing, DVD Studio Pro® 4 for DVD authoring, Motion 3 for real-time motion graphics,
+Soundtrack® Pro 2 for audio editing and sound design, Color for color grading and finishing, and Compressor 3 for encoding media in multiple formats. All of these
+applications are Universal. The Company also offers Final Cut Express HD 3.5, a consumer version of the Company's movie making software.
+
+Logic® Studio
+
+In
+September 2007, the Company introduced Logic Studio, a comprehensive suite of professional tools used by musicians and professionals to create, perform, and record music. Logic Studio
+features Logic® Pro 8, an upgraded version of the Company's music creation and audio production software; MainStage™, a new live performance application;
+Soundtrack® Pro 2, a professional audio post production software; Studio Instruments, made up of 40 instrument plug-ins; Studio Effects, with 80 professional effect
+plug-ins; and studio Sound Library. In addition, the Company offers Logic® Express 8, a standalone version of the Logic® Pro 8 application that
+provides an easy entry into professional music production. All of these applications are Universal.
+
+FileMaker® Pro
+
+The
+FileMaker Pro database software is Universal and offers relational databases and desktop-to-web publishing capabilities. In July 2007, the Company introduced
+FileMaker Pro 9 featuring a new Quick Start screen, which stores users' favorites and gives them access to the new videos in the FileMaker Learning Center; Conditional Formatting, which
+highlights data based on parameters the user sets; and the ability to email a link to other FileMaker users to instantly access a database.
+
+Internet Software and Services
+
+The Company is focused on delivering seamless integration with and access to the Internet throughout the Company's products and services. The Company's Internet solutions
+adhere to many industry standards to provide an optimized user experience.
+
+Safari™
+
+In
+October 2007, the Company made available Safari 3, a web browser compatible with Windows XP, Windows Vista and Mac OS X. Safari 3 includes
+built-in Google search; SnapBack™ to instantly return to
+
+8
+
+search
+results; a way to name, organize and present bookmarks; tabbed browsing; and automatic "pop-up" ad blocking.
+
+QuickTime®
+
+QuickTime,
+the Company's multimedia software for Mac or Windows-based computers, features streaming of live and stored video and audio over the Internet and playback of high-quality audio
+and video on computers. QuickTime 7 features H.264 encoding and can automatically determine a user's connection speed to ensure they are getting the highest-quality content stream possible.
+QuickTime 7 also delivers multi-channel audio and supports audio formats, including AIFF, WAV, MOV, MP4 (AAC only), CAF, and AAC/ADTS.
+
+The
+Company offers several other QuickTime products. QuickTime 7 Pro, a suite of software tools, allows creation and editing of Internet-ready audio and video files. QuickTime 7 Pro
+allows users to create H.264 video, capture audio and video, create multi-channel audio, and export multiple files while playing back or editing video.
+
+. Mac®
+
+The
+Company's. Mac offering is a suite of Internet services that for an annual fee provides Mac users with a powerful set of Internet tools.. Mac services include: internet message access protocol
+("IMAP") mail, an ad-free email service; website hosting for publishing web sites from iWeb; iDisk, a virtual hard drive accessible anywhere with Internet access;. Mac Sync, which keeps
+Safari bookmarks, iCal® calendars, Address Book information, Keychain®, and Mac OS X Mail preferences up-to-date across multiple Mac computers; and
+Groups which allows people to use a group email list and website. The current version of. Mac provides combined iDisk and email storage of up to 10GB for individuals and 20GB for families. In
+August 2007, the Company announced updates to its. Mac online service, including. Mac Web Gallery, a new service for. Mac members to share photos and movies on the Internet.. Mac Web Gallery
+lets members share photos and movies directly from iLife '08 with anyone on a Mac, PC or iPhone.
+
+Wireless Connectivity and Networking
+
+AirPort Extreme®
+
+AirPort
+Extreme is the Company's wireless networking technology. AirPort Extreme Base Station includes 802.11n Wi-Fi wireless networking and supports up to 50 users. Air Port Extreme
+operates at either 2.4 GHz or 5 GHz frequencies, providing compatibility with most Wi-Fi devices. The current AirPort Extreme Base Station works with both Mac and Windows
+computers, includes multiple Gigabit Ethernet ports and supports USB printer sharing to allow multiple users to wirelessly share USB printers connected directly to the base station. All Macs have
+either built-in or optional wireless networking client hardware and software that communicates with Airport Extreme or Airport Express Base Stations.
+
+AirPort® Express®
+
+AirPort
+Express is the first 802.11g standard mobile base station that can be plugged directly into the wall for wireless Internet connections and USB printing. Airport Express also features analog
+and digital audio outputs that can be connected to a stereo and AirTunes™ music networking software that works with iTunes, giving users a way to wirelessly stream iTunes music from their
+Mac or Windows-based computer to any room in the house. AirPort Express features a single piece design weighing 6.7 ounces.
+
+Product Support and Services
+
+AppleCare® offers a range of support options for the Company's customers. These options include assistance that is built into software products, printed and
+electronic product manuals, online support including comprehensive product information as well as technical assistance, and the AppleCare
+
+9
+
+Protection
+Plan. The AppleCare Protection Plan is a fee-based service that typically includes three years of phone support and hardware repairs, dedicated web-based support
+resources, and user diagnostic tools.
+
+Markets and Distribution
+
+The Company's customers are primarily in the education, creative professional, consumer, and business markets. The Company distributes its products through wholesalers,
+resellers, national and regional retailers and cataloguers. No individual customer accounted for more than 10% of net sales in 2007, 2006, or 2005. The Company also sells many of its products and
+resells certain third-party products in most of its major markets directly to consumers, education customers, and businesses through its own sales force and retail and online stores.
+
+Competition
+
+The Company is confronted by aggressive competition in all areas of its business. The markets for consumer electronics, personal computers, related software and peripheral
+products, digital music devices and related services, and mobile communication devices are highly competitive. These markets are characterized by rapid technological advances in both hardware and
+software that have substantially increased the capabilities and use of personal computers, other digital electronic devices, and mobile communication devices that have resulted in the frequent
+introduction of new products with competitive price, feature, and performance characteristics. Over the past several years, price competition in these markets has been particularly intense. The
+Company's competitors who sell personal computers based on other operating systems have aggressively cut prices and lowered their product margins to gain or maintain market share. The Company's
+financial condition and operating results can be adversely affected by these and other industry-wide downward pressures on gross margins. The principal competitive factors include price,
+product features, relative price/performance, product quality and reliability, design innovation, availability of software and peripherals, marketing and distribution capability, service and support,
+and corporate reputation. Further, as the personal computer industry and its customers place more reliance on the Internet, an increasing number of Internet devices that are smaller, simpler, and less
+expensive than traditional personal computers may compete for market share with the Company's products.
+
+The
+Company's music products and services have faced significant competition from other companies promoting their own digital music and content products and services, including those offering free
+peer-to-peer music and video services. The Company believes it currently retains a competitive advantage by offering superior innovation and integration of the entire solution
+including the hardware (personal computer and iPod), software (iTunes), and distribution of content (iTunes Store and iTunes Wi-Fi Music Store). However, the Company expects competition in
+this space to intensify as competitors attempt to imitate the Company's approach to tightly integrating these elements within their own offerings or, alternatively, collaborate with each other to
+offer solutions that are more integrated than those they currently offer. Some of these current and potential competitors have substantial resources and may be able to provide such products and
+services at little or no profit or even at a loss to compete with the Company's offerings.
+
+The
+Company is currently focused on market opportunities related to mobile communication devices including the iPhone. The mobile communications industry is highly competitive with several large,
+well-funded, and experienced competitors. The Company faces competition from mobile communication device companies that may attempt to imitate some of the iPhone's functions and
+applications within their own smart phones. This industry is characterized by aggressive pricing practices, frequent product introductions, evolving design approaches and technologies, rapid adoption
+of technological and product advancements by competitors, and price sensitivity on the part of consumers.
+
+The
+Company's future financial condition and operating results are substantially dependent on the Company's ability to continue to develop improvements to the Mac platform and to the Company's
+
+10
+
+hardware,
+software and services related to consumer electronic devices, including iPods, and mobile communication devices, including iPhone.
+
+Raw Materials
+
+Although most components essential to the Company's business are generally available from multiple sources, certain key components including, but not limited to,
+microprocessors, enclosures, certain LCDs, certain optical drives, and application-specific integrated circuits ("ASICs") are currently obtained by the Company from single or limited sources. Some key
+components, while currently available to the Company from multiple sources, are at times subject to industry-wide availability constraints and pricing pressures. In addition, the Company
+uses some components uncommon to the rest of the personal computer, consumer electronics and mobile communication industries, and new products introduced by the Company often initially utilize custom
+components obtained from only one source until the Company has evaluated whether there is a need for, and subsequently qualifies, additional suppliers. If the supply of a key or single-sourced
+component to the Company were to be delayed or curtailed or in the event a key manufacturing vendor delayed shipment of completed products to the Company, the Company's ability to ship related
+products in desired
+quantities and in a timely manner could be adversely affected. The Company's business and financial performance could also be adversely affected depending on the time required to obtain sufficient
+quantities from the original source, or to identify and obtain sufficient quantities from an alternative source. Continued availability of these components may be affected if suppliers were to decide
+to concentrate on the production of common components instead of components customized to meet the Company's requirements. The Company attempts to mitigate these potential risks by working closely
+with these and other key suppliers on product introduction plans, strategic inventories, coordinated product introductions, and internal and external manufacturing schedules and levels. Consistent
+with industry practice, the Company acquires components through a combination of formal purchase orders, supplier contracts, and open orders based on projected demand information. The Company's
+purchase commitments typically cover its requirements for periods ranging from 30 to 150 days.
+
+The
+Company believes there are several component suppliers and manufacturing vendors whose loss to the Company could have a material adverse effect upon the Company's business and financial condition.
+At this time, such vendors include Agere Systems, Inc., Ambit Microsystems Corporation, Amperex Technology Limited, ASUSTeK Corporation, ATI Technologies, Inc., Atheros
+Communications Inc., AU Optronics Corporation, Broadcom Corporation, Chi Mei Optoelectronics Corporation, Cypress Semiconductor Corporation, Hitachi Global Storage Technologies, Hon Hai
+Precision Industry Co., Ltd., Infineon Technologies AG, Intel Corporation, Inventec Appliances Corporation, LG. Phillips Co., Ltd., Matsushita, Murata Manufacturing Co., Ltd.,
+National Semiconductor Corporation, NVIDIA Corp., Inc., Quanta Computer, Inc., Renesas Semiconductor Co. Ltd., Samsung Electronics, Sony Corporation, Synaptics, Inc., Texas
+Instruments, and Toshiba Corporation. Certain of these vendors are the sole-sourced supplier of components and manufacturing outsourcing for many of the Company's key products, including
+but not limited to, assembly of most of the Company's portable Mac computers, iPods, and iPhones.
+
+Research and Development
+
+Because the personal computer, consumer electronics, and mobile communication industries are characterized by rapid technological advances, the Company's ability to compete
+successfully is heavily dependent upon its ability to ensure a continual and timely flow of competitive products, services, and technologies to the marketplace. The Company continues to develop new
+products and technologies and to enhance existing products in the areas of computer hardware and peripherals, consumer electronics products, mobile communication devices, system software, applications
+software, networking and communications software and solutions, and Internet services and solutions. The Company may expand the range of its product offerings and intellectual property through
+licensing and/or acquisition of third-party business and technology. The Company's research and development expenditures totaled $782 million, $712 million, and $535 million in
+2007, 2006, and 2005, respectively.
+
+11
+
+Patents, Trademarks, Copyrights and Licenses
+
+The Company currently holds rights to patents and copyrights relating to certain aspects of its computer systems, iPods, iPhone, peripherals, software, and services. In
+addition, the Company has registered, and/or has applied to register, trademarks and service marks in the U. S. and a number of foreign countries for "Apple," the Apple logo, "Macintosh," "Mac,"
+"iPod," "iTunes," "iTunes Store," "iPhone," and numerous other trademarks and service marks. Although the Company believes the ownership of such patents, copyrights, trademarks and service marks is an
+important factor in its business and that its success does depend in part on the ownership thereof, the Company relies primarily on the innovative skills, technical competence, and marketing abilities
+of its personnel.
+
+Many
+of the Company's products are designed to include intellectual property obtained from third-parties. While it may be necessary in the future to seek or renew licenses relating to various aspects
+of its products and business methods, the Company believes, based upon past experience and industry practice, such licenses generally could be obtained on commercially reasonable terms; however, there
+is no guarantee that such licenses could be obtained at all. Because of technological changes in the computer industry, current extensive patent coverage, and the rapid rate of issuance of new
+patents, it is possible certain components of the Company's products and business methods may unknowingly infringe existing patents or intellectual property rights of others. From time to time, the
+Company has been notified that it may be infringing certain patents or other intellectual property rights of third-parties.
+
+Foreign and Domestic Operations and Geographic Data
+
+The U. S. represents the Company's largest geographic marketplace. Approximately 60% of the Company's net sales in 2007 came from sales to customers inside the U. S. Final
+assembly of products sold by the Company is currently performed in the Company's manufacturing facility in Cork, Ireland, and by external vendors in Fremont, California; Fullerton, California; Taiwan;
+the Republic of Korea ("Korea"); the People's Republic of China ("China"); and the Czech Republic. Currently, the supply and manufacture of many critical components used in the Company's products is
+performed by sole-sourced third-party vendors in the U. S., China, Japan, Korea, and Singapore. Final assembly of substantially all of the Company's portable products, including MacBook
+Pro, MacBook, iPod, and iPhone, is performed by sole-sourced third-party vendors in China. Margins on sales of the Company's products in foreign countries, and on sales of products that
+include components obtained from foreign suppliers, can be adversely affected by foreign currency exchange rate fluctuations and by international trade regulations, including tariffs and antidumping
+penalties.
+
+Information
+regarding financial data by geographic segment is set forth in Part II, Item 8 of this Form 10-K and in Notes to Consolidated Financial Statements at
+Note 9, "Segment Information and Geographic Data."
+
+Seasonal Business
+
+The Company has historically experienced increased net sales in its first and fourth fiscal quarters compared to other quarters in its fiscal year due to seasonal demand
+related to the holiday season and the beginning of the school year. This historical pattern should not be considered a reliable indicator of the Company's future net sales or financial performance.
+
+Warranty
+
+The Company offers a basic limited parts and labor warranty on most of its hardware products, including Mac computers, iPods and iPhones. The basic warranty period is typically
+one year from the date of purchase by the end-user. The Company also offers a 90-day basic warranty for its service parts used to repair the Company's hardware products. In
+addition, consumers may purchase extended service coverage on most of the Company's hardware products in all of its major markets.
+
+12
+
+Backlog
+
+In the Company's experience, the actual amount of product backlog at any particular time is not a meaningful indication of its future business prospects. In particular, backlog
+often increases in anticipation of or immediately following new product introductions as dealers anticipate shortages. Backlog is often reduced once dealers and customers believe they can obtain
+sufficient supply. Because of the foregoing, backlog should not be considered a reliable indicator of the Company's ability to achieve any particular level of revenue or financial performance.
+
+Environmental Laws
+
+Compliance with federal, state, local, and foreign laws enacted for the protection of the environment has to date had no material effect on the Company's capital expenditures,
+earnings, or competitive position. In the future, these laws could have a material adverse effect on the Company.
+
+Production
+and marketing of products in certain states and countries may subject the Company to environmental and other regulations including, in some instances, the requirement to provide customers
+the ability to return product at the end of its useful life, and place responsibility for environmentally safe disposal or recycling with the Company. Such laws and regulations have recently been
+passed in several jurisdictions in which the Company operates including various countries within Europe and Asia, certain Canadian provinces and certain states within the U. S. Although the Company
+does not anticipate any material adverse effects in the future based on the nature of its operations and the thrust of such laws, there is no assurance that such existing laws or future laws will not
+have a material adverse effect on the Company's financial condition or operating results.
+
+Employees
+
+As of September 29, 2007, the Company had approximately 21,600 full-time equivalent employees and an additional 2,100 temporary equivalent employees and
+contractors.
+
+Available Information
+
+The Company's Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments
+to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are filed with the U. S. Securities and Exchange Commission ("SEC"). Such reports and
+other information filed by the Company with the SEC are available on the Company's website at http://www. apple. com/investor when such reports are available on the SEC website. The public may read and
+copy any materials filed by the Company with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Room 1580, Washington, DC 20549. The public may obtain
+information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy, and
+information statements and other information regarding issuers that file electronically with the SEC at http://www. sec. gov. The contents of these websites are not incorporated into this filing.
+Further, the Company's references to the URLs for these websites are intended to be inactive textual references only.
+
+Item 1A. Risk Factors

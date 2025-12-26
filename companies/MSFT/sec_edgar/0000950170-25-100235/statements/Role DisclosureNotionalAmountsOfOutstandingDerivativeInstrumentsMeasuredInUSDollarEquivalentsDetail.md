@@ -1,0 +1,26 @@
+## Role DisclosureNotionalAmountsOfOutstandingDerivativeInstrumentsMeasuredInUSDollarEquivalentsDetail
+
+**Year Ended**
+
+|  | Jun 30, 2025 | Jun 30, 2024 | Jun 30, 2023 |
+| --- | --- | --- | --- |
+| **    Hedging Designation** |  |  |  |
+|         Designated as Hedging Instruments |  |  |  |
+|         Not Designated as Hedging Instruments |  |  |  |
+|         Foreign Exchange Contracts |  |  |  |
+|         Interest Rate Contracts |  |  |  |
+|         Equity Contracts |  |  |  |
+|         Other Contracts |  |  |  |
+| **    Position** |  |  |  |
+| **      Position** |  |  |  |
+|         Derivatives Purchased |  |  |  |
+|         Derivatives Sold |  |  |  |
+|       Notional amounts |  |  |  |
+| *        Foreign Exchange Contracts - Not Designated as Hedging Instruments - Derivatives Purchased* |  |  |  |
+| *        Equity Contracts - Not Designated as Hedging Instruments - Derivatives Purchased* |  |  |  |
+| *        Interest Rate Contracts - Designated as Hedging Instruments - Derivatives Purchased* |  |  |  |
+| *        Other Contracts - Not Designated as Hedging Instruments - Derivatives Sold* |  |  |  |
+| *        Other Contracts - Not Designated as Hedging Instruments - Derivatives Purchased* |  |  |  |
+| *        Foreign Exchange Contracts - Designated as Hedging Instruments - Derivatives Purchased* |  |  |  |
+| *        Foreign Exchange Contracts - Not Designated as Hedging Instruments - Derivatives Sold* |  |  |  |
+| *        Equity Contracts - Not Designated as Hedging Instruments - Derivatives Sold* |  |  |  |

@@ -1,0 +1,34 @@
+ITEM 7. MANAGEMENT’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following Management’s Discussion and Analysis (“ MD& A”) is intended to help the reader understand the
+results of operations and financial condition of Microsoft Corporation. MD& A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the accompanying Notes to Financial Statements.
+
+OVERVIEW
+
+Microsoft is a technology leader focused on building best-in-class platforms and productivity services for a mobile-first, cloud-first world. We
+strive to empower every person and every organization on the planet to achieve more. We develop and market software, services, and devices that deliver new opportunities, greater convenience, and enhanced value to people’s lives.
+
+We generate revenue by developing, licensing, and supporting a wide range of software products, by offering an array of services, including
+cloud-based services to consumers and businesses, by designing, manufacturing, and selling devices that integrate with our cloud-based services, and by delivering relevant online advertising to a global audience. Our most significant expenses are
+related to compensating employees, designing, manufacturing, marketing, and selling our products and services, datacenter costs in support of our cloud-based services, and income taxes.
+
+Much of our focus in fiscal year 2015 was toward transforming our organization to support our strategy of building best-in-class platforms and
+productivity services for a mobile-first, cloud-first world. We achieved product development milestones, implemented organizational changes, and made strategic and tactical moves to support the three central ambitions that support our strategy:
+reinventing productivity and business processes; building the intelligent cloud platform; and creating more personal computing.
+
+Highlights from fiscal year 2015 included:
+
+  Momentum continued to grow in our Commercial Cloud and productivity offerings as we surpassed an $8 billion annualized run rate* at the end of the year.  
+
+  Office 365 Commercial seats grew 74%, and Office 365 is now deployed in four out of five Fortune 500 enterprises, with more than half of that install base  
+
+  Server products and services revenue increased 9%, driven by growth across our cloud and on-premises server products. Azure revenue and compute usage         
+
+  Annualized run rate was calculated by multiplying June 2015 revenue by twelve months.  
+ ─────────────────────────────────────────────────────────────────────────────────────────
+
+29
+
+Table of Contents
+
+PART II

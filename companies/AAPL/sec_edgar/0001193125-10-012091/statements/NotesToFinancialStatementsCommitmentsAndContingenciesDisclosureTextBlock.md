@@ -1,0 +1,5 @@
+## NotesToFinancialStatementsCommitmentsAndContingenciesDisclosureTextBlock
+
+|  |
+| --- |
+| **      Commitments and Contingencies** |

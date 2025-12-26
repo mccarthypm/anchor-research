@@ -1,0 +1,27 @@
+[project]
+name = "anchor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "edgartools>=5.6.0",
+    "google-adk>=1.21.0",
+    "litellm>=1.80.11",
+    "python-dotenv>=1.2.1",
+    "rich>=14.2.0",
+    "sec-edgar-downloader>=5.0.3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+    "pytest-cov>=7.0.0",
+]

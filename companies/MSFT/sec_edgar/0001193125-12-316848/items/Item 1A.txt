@@ -1,0 +1,30 @@
+ITEM 1A. RISK FACTORS
+
+Our operations and financial results are subject to various risks and uncertainties, including those described below, that could adversely affect our business, financial condition, results of operations, cash
+flows, and the trading price of our common stock.
+
+We face intense competition across all markets for our products and services, which may lead to
+lower revenue or operating margins.
+
+Competition in the technology sector.
+
+Competition among platforms, ecosystems, and devices.
+
+  A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has been                                               
+
+  We derive substantial revenue from licenses of Windows operating systems on personal computers. The proliferation of alternative devices and form factors, in                                         
+  particular mobile devices such as smartphones and tablet computers, creates challenges from competing software platforms. These devices compete on multiple bases including price and the perceiv...  
+  increasingly turn to these devices to perform functions that would have been performed by personal computers in the past. Even if many users view these devices as complementary to a personal co...  
+  difficult to attract applications developers to our platforms. In addition, our Surface devices will compete with products made by our OEM partners, which may affect their commitment to our pla...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Competing platforms have applications marketplaces (sometimes referred to as “stores”) with scale and significant installed bases on mobile devices.                                                  
+  These applications leverage free and user-paid services that over time result in disincentives for users to switch to competing platforms. In order to compete, we must successfully enlist devel...  
+  ensure that these applications have high quality, customer appeal and value. Efforts to compete with these application marketplaces may increase our cost of revenue and lower our operating marg...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+14
+
+Table of Contents
+
+PART I

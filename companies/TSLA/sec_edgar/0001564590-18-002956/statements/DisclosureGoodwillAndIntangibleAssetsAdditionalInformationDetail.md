@@ -1,0 +1,8 @@
+## DisclosureGoodwillAndIntangibleAssetsAdditionalInformationDetail
+
+**Year Ended**
+
+|  | Dec 31, 2017 | Dec 31, 2016 | Dec 31, 2015 |
+| --- | --- | --- | --- |
+|   Goodwill |  |  |  |
+| *    Grohmann Engineering GmbH* |  |  |  |

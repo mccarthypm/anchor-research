@@ -1,0 +1,49 @@
+ITEM 7. MANAGEMENT’ S DISCUSSION AND ANALYSIS OFFINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“ MD& A”) is intended to help the reader understand the results of operations and financial condition of Microsoft Corporation. MD& A is provided as a supplement to, and should be read in conjunction with, our financial statements and the accompanying Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
+
+OVERVIEW
+
+Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to create local opportunity, growth, and impact in every country around the world. Our strategy is to build best-in-class platforms and productivity services for an intelligent cloud and an intelligent edge infused with artificial intelligence (“ AI”). We develop, license, and support a wide range of software products, services, and devices that deliver new opportunities, greater convenience, and enhanced value to people’s lives. Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency. They also support new startups, improve educational and health outcomes, and empower human ingenuity.
+
+We generate revenue by licensing and supporting an array of software products, by offering a wide range of cloud-based and other services to consumers and businesses, by designing, manufacturing, and selling devices that integrate with our cloud-based services, and by delivering relevant online advertising to a global audience. Our most significant expenses are related to compensating employees; designing, manufacturing, marketing, and selling our products and services; datacenter costs in support of our cloud-based services; and income taxes.
+
+Highlights* from fiscal year 2017 included:
+
+  Commercial cloud annualized revenue run rate** exceeded $18.9 billion.  
+
+  Office Commercial revenue grew 6%, driven by Office 365 commercial revenue growth of 46%.  
+
+  Office Consumer revenue grew 14%, and Office 365 consumer subscribers increased to 27.0 million.  
+
+  Microsoft Dynamics revenue grew 9%, driven by Dynamics 365 revenue growth of 78%.  
+
+  LinkedIn contributed revenue of $2.3 billion.  
+
+  Server products and cloud services revenue grew 13%, driven by Microsoft Azure revenue growth of 99%.  
+
+  Enterprise Services revenue decreased 2%, driven by a decline in revenue from custom support agreements, offset in part by higher revenue from Premier Support Services and Microsoft Consulting ...  
+
+  Windows original equipment manufacturer licensing (“ Windows OEM”) revenue increased 3%.  
+ ────────────────────────────────────────────────────────────────────────────────────────────
+
+  Windows Commercial revenue grew 5%, driven by multi-year agreement revenue.  
+
+  Microsoft Surface revenue decreased 2%, driven by a reduction in volumes sold, offset in part by a higher mix of premium devices.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Search advertising revenue, excluding traffic acquisition costs, grew 9%.  
+
+  Gaming revenue decreased slightly, driven by lower Xbox hardware revenue, offset in part by growth in Xbox software and services.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Highlights are presented based on segment results.  
+
+  Commercial cloud annualized revenue run rate is calculated by multiplying revenue for the last month of the quarter by twelve for Office 365 commercial, Azure, Dynamics 365, and other cloud pro...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+On December 8, 2016, we completed our acquisition of LinkedIn Corporation for a total purchase price of $27.0 billion. LinkedIn has been included in our consolidated results of operations since the date of acquisition. See Note 9 - Business Combinations in the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.
+
+In November 2016, we completed the sale of our feature phone business for $350 million.
+
+PART II

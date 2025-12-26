@@ -1,0 +1,1520 @@
+Item 8. Financial Statements and Supplementary Data
+
+                                                                                                           Page  
+  Consolidated Balance Sheets as of September 29, 2007 and September 30, 2006                                55  
+  Consolidated Statements of Operations for the three fiscal years ended September 29, 2007                  56  
+  Consolidated Statements of Shareholders' Equity for the three fiscal years ended September 29, 2007        57  
+  Consolidated Statements of Cash Flows for the three fiscal years ended September 29, 2007                  58  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Notes to Consolidated Financial Statements                                                                 59  
+  Selected Quarterly Financial Information (Unaudited)                                                       90  
+  Reports of Independent Registered Public Accounting Firm, KPMG LLP                                         91  
+
+All
+financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the
+information required is included in the Consolidated Financial Statements and Notes thereto.
+
+54
+
+CONSOLIDATED BALANCE SHEETS(In millions, except share amounts)
+
+                                                                                                                                                                                                                                       September 29, 2007                  September 30, 2006              
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ASSETS:                                                                                                                                                                                                                                                                                                  
+  Current assets:                                                                                                                                                                                                                                                                                          
+                                             Cash and cash equivalents                                                                                                                                                                 $                        9,352      $                        6,392  
+                                             Short-term investments                                                                                                                                                                                             6,034                               3,718  
+                                             Accounts receivable, less allowances of $47 and $52, respectively                                                                                                                                                  1,637                               1,252  
+                                             Inventories                                                                                                                                                                                                          346                                 270  
+                                             Deferred tax assets                                                                                                                                                                                                  782                                 607  
+                                             Other current assets                                                                                                                                                                                               3,805                               2,270  
+                                                                                                                                                                                       Total current assets                                                    21,956                              14,509  
+                                             Property, plant, and equipment, net                                                                                                                                                                                1,832                               1,281  
+                                             Goodwill                                                                                                                                                                                                              38                                  38  
+                                             Acquired intangible assets, net                                                                                                                                                                                      299                                 139  
+                                             Other assets                                                                                                                                                                                                       1,222                               1,238  
+                                                                                                                                                                                       Total assets                                    $                       25,347      $                       17,205  
+  LIABILITIES AND SHAREHOLDERS' EQUITY:                                                                                                                                                                                                                                                                    
+  Current liabilities:                                                                                                                                                                                                                                                                                     
+                                             Accounts payable                                                                                                                                                                          $                        4,970      $                        3,390  
+                                             Accrued expenses                                                                                                                                                                                                   4,329                               3,053  
+                                                                                                                                                                                       Total current liabilities                                                9,299                               6,443  
+  Non-current liabilities                                                                                                                                                                                                                                       1,516                                 778  
+                                                                                                                                                                                       Total liabilities                                                       10,815                               7,221  
+  Commitments and contingencies                                                                                                                                                                                                                                                                            
+  Shareholders' equity:                                                                                                                                                                                                                                                                                    
+                                             Common stock, no par value; 1,800,000,000 shares authorized; 872,328,972 and 855,262,568 shares issued and outstanding, respectively                                                                               5,368                               4,355  
+                                             Retained earnings                                                                                                                                                                                                  9,101                               5,607  
+                                             Accumulated other comprehensive income                                                                                                                                                                                63                                  22  
+                                                                                                                                                                                       Total shareholders' equity                                              14,532                               9,984  
+                                                                                                                                                                                       Total liabilities and shareholders' equity      $                       25,347      $                       17,205  
+
+See
+accompanying Notes to Consolidated Financial Statements.
+
+55
+
+CONSOLIDATED STATEMENTS OF OPERATIONS(In millions, except share and per share amounts)
+
+  Three fiscal years ended September 29, 2007                                                                                 2007                   2006                            
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net sales                                                                                                                   $          24,006      $          19,315       13,931  
+  Cost of sales (1)                                                                                                                      15,852                 13,717        9,889  
+                                                                   Gross margin                                                           8,154                  5,598        4,042  
+  Operating expenses:                                                                                                                                                                
+                                                                   Research and development (1)                                             782                    712          535  
+                                                                   Selling, general, and administrative (1)                               2,963                  2,433        1,864  
+                                                                                                                                          3,745                  3,145        2,399  
+  Operating income                                                                                                                        4,409                  2,453        1,643  
+  Other income and expense                                                                                                                  599                    365          165  
+  Income before provision for income taxes                                                                                                5,008                  2,818        1,808  
+  Provision for income taxes                                                                                                              1,512                    829          480  
+  Net income                                                                                                                  $           3,496      $           1,989        1,328  
+  Earnings per common share:                                                                                                                                                         
+                                                                                                                 Basic        $            4.04      $            2.36         1.64  
+                                                                                                                 Diluted      $            3.93      $            2.27         1.55  
+  Shares used in computing earnings per share (in thousands):                                                                                                                        
+                                                                                                                 Basic                  864,595                844,058      808,439  
+                                                                                                                 Diluted                889,292                877,526      856,878  
+
+(1)
+
+Includes
+stock-based compensation expense, which was allocated as follows:
+
+  Cost of sales                              $35      $21       $3  
+  Research and development                   $77      $53       $7  
+  Selling, general, and administrative      $130      $89      $39  
+
+See
+accompanying Notes to Consolidated Financial Statements.
+
+56
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY(In millions, except share amounts which are in thousands)
+
+                                                                                                                                                                                                           Common Stock                                             
+                                                                                                                                                                                                           Shares                                                   
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Balances as of September 25, 2004                                                                                                                                                                        782,887           2,582      2,597      (15       5,063  
+                                         Components of comprehensive income:                                                                                                                                                                                        
+                                                                                                                               Net income                                                                  —                 —          1,328      —         1,328  
+                                                                                                                               Change in foreign currency translation                                      —                 —          —          7             7  
+                                                                                                                               Change in unrealized gain on derivative instruments, net of tax             —                 —          —          8             8  
+                                                                                                                                                                                                                                                             1,343  
+                                         Issuance of stock-based compensation awards                                                                                                                       —                 7          —          —             —  
+                                         Stock-based compensation                                                                                                                                          —                 —          —          —            47  
+                                         Common stock issued under stock plans                                                                                                                             52,132            547        —          —           547  
+                                         Tax benefit from employee stock plan awards                                                                                                                       —                 428        —          —           428  
+  Balances as of September 24, 2005                                                                                                                                                                        835,019           3,564      3,925      —         7,428  
+                                         Components of comprehensive income:                                                                                                                                                                                        
+                                                                                                                               Net income                                                                  —                 —          1,989      —         1,989  
+                                                                                                                               Change in foreign currency translation                                      —                 —          —          19           19  
+                                                                                                                               Change in unrealized gain on available-for-sale securities, net of tax      —                 —          —          4             4  
+                                                                                                                               Change in unrealized gain on derivative instruments, net of tax             —                 —          —          (1           (1  
+                                                                                                                                                                                                                                                             2,011  
+                                         Common stock repurchased                                                                                                                                          (4,574            (48        (307       —          (355  
+                                         Stock-based compensation                                                                                                                                          —                 163        —          —           163  
+                                         Deferred compensation                                                                                                                                             —                 (61        —          —             —  
+                                         Common stock issued under stock plans                                                                                                                             24,818            318        —          —           318  
+                                         Tax benefit from employee stock plan awards                                                                                                                       —                 419        —          —           419  
+  Balances as of September 30, 2006                                                                                                                                                                        855,263           4,355      5,607      22        9,984  
+                                         Components of comprehensive income:                                                                                                                                                                                        
+                                                                                                                               Net income                                                                  —                 —          3,496      —         3,496  
+                                                                                                                               Change in foreign currency translation                                      —                 —          —          51           51  
+                                                                                                                               Change in unrealized loss on available-for-sale securities, net of tax      —                 —          —          (7           (7  
+                                                                                                                               Change in unrealized loss on derivative instruments, net of tax             —                 —          —          (3           (3  
+                                                                                                                                                                                                                                                             3,537  
+                                         Stock-based compensation                                                                                                                                          —                 251        —          —           251  
+                                         Common stock issued under stock plans, net of shares withheld for employee taxes                                                                                  17,066            364        (2         —           362  
+                                         Tax benefit from employee stock plan awards                                                                                                                       —                 398        —          —           398  
+  Balances as of September 29, 2007                                                                                                                                                                        872,329           5,368      9,101      63       14,532  
+
+See accompanying Notes to Consolidated Financial Statements.
+
+57
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS(In millions)
+
+  Three fiscal years ended September 29, 2007                                                                                                                                                               2007                   2006                           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash and cash equivalents, beginning of the year                                                                                                                                                          $           6,392      $          3,491        2,969  
+  Operating Activities:                                                                                                                                                                                                                                           
+  Net income                                                                                                                                                                                                            3,496                 1,989        1,328  
+  Adjustments to reconcile net income to cash generated by operating activities:                                                                                                                                                                                  
+                                                                                      Depreciation, amortization and accretion                                                                                            317                   225          179  
+                                                                                      Stock-based compensation expense                                                                                                    242                   163           49  
+                                                                                      Provision for deferred income taxes                                                                                                  78                    53           50  
+                                                                                      Excess tax benefits from stock options                                                                                                —                     —          428  
+                                                                                      Gain on sale of PowerSchool net assets                                                                                                —                    (4            —  
+                                                                                      Loss on disposition of property, plant, and equipment                                                                                12                    15            9  
+  Changes in operating assets and liabilities:                                                                                                                                                                                                                    
+                                                                                      Accounts receivable, net                                                                                                           (385                  (357         (121  
+                                                                                      Inventories                                                                                                                         (76                  (105          (64  
+                                                                                      Other current assets                                                                                                             (1,540                (1,626         (150  
+                                                                                      Other assets                                                                                                                         81                (1,040          (35  
+                                                                                      Accounts payable                                                                                                                  1,494                 1,611          328  
+                                                                                      Other liabilities                                                                                                                 1,751                 1,296          534  
+                                                                                                                                                     Cash generated by operating activities                             5,470                 2,220        2,535  
+  Investing Activities:                                                                                                                                                                                                                                           
+                                                                                      Purchases of short-term investments                                                                                             (11,719                (7,255      (11,470  
+                                                                                      Proceeds from maturities of short-term investments                                                                                6,483                 7,226        8,609  
+                                                                                      Proceeds from sales of investments                                                                                                2,941                 1,086          586  
+                                                                                      Purchases of long-term investments                                                                                                  (17                   (25            —  
+                                                                                      Proceeds from sale of PowerSchool net assets                                                                                          —                    40            —  
+                                                                                      Payment for acquisition of property, plant, and equipment                                                                          (735                  (657         (260  
+                                                                                      Payment for acquisition of intangible assets                                                                                       (251                     —            —  
+                                                                                      Other                                                                                                                                49                   (58          (21  
+                                                                                                                                                     Cash (used for) generated by investing activities                 (3,249                   357       (2,556  
+  Financing Activities:                                                                                                                                                                                                                                           
+                                                                                      Proceeds from issuance of common stock                                                                                              365                   318          543  
+                                                                                      Excess tax benefits from stock-based compensation                                                                                   377                   361            —  
+                                                                                      Repurchases of common stock                                                                                                          (3                  (355            —  
+                                                                                                                                                     Cash generated by financing activities                               739                   324          543  
+  Increase in cash and cash equivalents                                                                                                                                                                                 2,960                 2,901          522  
+  Cash and cash equivalents, end of the year                                                                                                                                                                $           9,352      $          6,392        3,491  
+  Supplemental cash flow disclosures:                                                                                                                                                                                                                             
+                                                                                                                                                     Cash paid for income taxes, net                        $             863      $            194           17  
+
+See accompanying Notes to Consolidated Financial Statements.
+
+58
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 - Summary of Significant Accounting Policies
+
+Apple Inc. and its wholly-owned subsidiaries (collectively "Apple" or the "Company") design, manufacture, and market personal computers, portable digital music players,
+and mobile communication devices and sells a variety of related software, services, peripherals, and networking solutions. The Company sells its products worldwide through its online stores, its
+retail stores, its direct sales force, and third-party wholesalers, resellers, and value-added resellers. In addition, the Company sells a variety of third-party Mac, iPod and iPhone compatible
+products including application software, printers, storage devices, speakers, headphones, and various other accessories and supplies through its online and retail stores. The Company sells to
+education, consumer, creative professional, business, and government customers.
+
+Basis of Presentation and Preparation
+
+The accompanying consolidated financial statements include the accounts of the Company. Intercompany accounts and transactions have been eliminated. The preparation of these
+consolidated financial statements in conformity with U. S. generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported in these
+consolidated financial statements and accompanying notes. Actual results could differ materially from those estimates. Certain prior year amounts in the consolidated financial statements and notes
+thereto have been reclassified to conform to the current year presentation.
+
+The
+Company's fiscal year is the 52 or 53-week period that ends on the last Saturday of September. The Company's first quarter of fiscal year 2007 contained 13 weeks and the first quarter
+of fiscal year 2006 contained 14 weeks. The Company's fiscal year 2007 ended on September 29, 2007 and included 52 weeks, while fiscal year 2006 included 53 weeks and fiscal year 2005 included
+52 weeks. Unless otherwise stated, references to particular years or quarters refer to the Company's fiscal years ended in September and the associated quarters of those fiscal years.
+
+Financial Instruments
+
+Cash Equivalents and Short-term Investments
+
+All highly liquid investments with maturities of three months or less at the date of purchase are classified as cash equivalents. Highly liquid investments with maturities
+greater than three months at the date of purchase are classified as short-term investments. The Company's debt and marketable equity securities have been classified and accounted for as
+available-for-sale. Management determines the appropriate classification of its investments in debt and marketable equity securities at the time of purchase and reevaluates the
+available-for-sale designations as of each balance sheet date. These securities are carried at fair value, with the unrealized gains and losses, net of taxes, reported as a
+component of shareholders' equity. The cost of securities sold is based upon the specific identification method.
+
+Derivative Financial Instruments
+
+The Company accounts for its derivative instruments as either assets or liabilities and carries them at fair value. Derivatives that are not defined as hedges in Statement of
+Financial Accounting Standards ("SFAS") No. 133, Accounting for Derivative Instruments and Hedging Activities, as amended, must be adjusted to
+fair value through earnings.
+
+For
+derivative instruments that hedge the exposure to variability in expected future cash flows that are designated as cash flow hedges, the effective portion of the gain or loss on the derivative
+instrument is reported as a component of accumulated other comprehensive income in shareholders' equity and reclassified into earnings in the same period or periods during which the hedged transaction
+affects
+
+59
+
+earnings.
+The ineffective portion of the gain or loss on the derivative instrument is recognized in current earnings. To receive hedge accounting treatment, cash flow hedges must be highly effective
+in offsetting changes to expected future cash flows on hedged transactions. For derivative instruments that hedge the exposure to changes in the fair value of an asset or a liability and that are
+designated as fair value hedges, the net gain or loss on the derivative instrument as well as the offsetting gain or loss on the hedged item attributable to the hedged risk are recognized in earnings
+in the current period. The net gain or loss on the effective portion of a derivative instrument that is designated as an economic hedge of the foreign currency translation exposure of the net
+investment in a foreign operation is reported in the same manner as a foreign currency translation adjustment. For forward contracts designated as net investment hedges, the Company excludes changes
+in fair value relating to changes in the forward carry component from its definition of effectiveness. Accordingly, any gains or losses related to this component are recognized in current earnings.
+
+Inventories
+
+Inventories are stated at the lower of cost, computed using the first-in, first-out method, or market. If the cost of the inventories exceeds their
+market value, provisions are made currently for the difference between the cost and the market value. The Company's inventories consist primarily of finished goods for all periods presented.
+
+Property, Plant, and Equipment
+
+Property, plant, and equipment are stated at cost. Depreciation is computed by use of the straight-line method over the estimated useful lives of the assets, which
+for buildings is the lesser of 30 years or the remaining life of the underlying building, up to 5 years for equipment, and the shorter of lease terms or 10 years for leasehold
+improvements. The Company capitalizes eligible costs to acquire or develop internal-use software that are incurred subsequent to the preliminary project stage. Capitalized costs related to
+internal-use software are amortized using the straight-line method over the estimated useful lives of the assets, which range from 3 to 5 years. Depreciation and
+amortization expense on property and equipment was $249 million, $180 million, and $141 million during 2007, 2006, and 2005, respectively.
+
+Asset Retirement Obligations
+
+The Company records obligations associated with the retirement of tangible long-lived assets and the associated asset retirement costs in accordance with SFAS
+No. 143, Accounting for Asset Retirement Obligations. The Company reviews legal obligations associated with the retirement of
+long-lived assets that result from the acquisition, construction, development and/or normal use of the assets. If it is determined that a legal obligation exists, the fair value of the
+liability for an asset retirement obligation is recognized in the period in which it is incurred if a reasonable estimate of fair value can be made. The fair value of the liability is added to the
+carrying amount of the associated asset and this additional carrying amount is depreciated over the life of the asset. The difference between the gross expected future cash flow and its present value
+is accreted over the life of the related lease as an operating expense. All of the Company's existing asset retirement obligations are associated with commitments to return property subject to
+operating leases to original condition upon lease termination. The Company's asset retirement liability was $18 million and $15 million as of September 29, 2007 and
+September 30, 2006, respectively.
+
+Long-Lived Assets Including Goodwill and Other Acquired Intangible Assets
+
+The Company reviews property, plant, and equipment and certain identifiable intangibles, excluding goodwill, for impairment in accordance with SFAS No. 144, Accounting for the Impairment of Long-Lived
+
+60
+
+Assets and for Long-Lived Assets to Be Disposed Of. Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate
+the carrying amount of an asset may not be recoverable. Recoverability of these assets is measured by comparison of its carrying amount to future undiscounted cash flows the assets are expected to
+generate. If property, plant, and equipment and certain identifiable intangibles are considered to be impaired, the impairment to be recognized equals the amount by which the carrying value of the
+assets exceeds its fair market value. The Company did not record any material impairments during 2007, 2006, and 2005.
+
+SFAS
+No. 142, Goodwill and Other Intangible Assetsrequires that goodwill and intangible assets with indefinite useful lives should not be
+amortized but rather be tested for impairment at least annually or sooner whenever events or changes in circumstances indicate that they may be impaired. The Company performs its goodwill impairment
+tests on or about August 31 of each year. The Company did not recognize any goodwill or intangible asset impairment charges in 2007, 2006, or 2005. The Company established reporting units based
+on its current reporting structure. For purposes of testing goodwill for impairment, goodwill has been allocated to these reporting units to the extent it relates to each reporting unit.
+
+SFAS
+No. 142 also requires that intangible assets with definite lives be amortized over their estimated useful lives and reviewed for impairment in accordance with SFAS No. 144. The
+Company is currently amortizing its acquired intangible assets with definite lives over periods ranging from 2 to 10 years.
+
+Foreign Currency Translation
+
+The Company translates the assets and liabilities of its international non-U. S. dollar functional currency subsidiaries into U. S. dollars using exchange rates in
+effect at the end of each period. Revenue and expenses for these subsidiaries are translated using rates that approximate those in effect during the period. Gains and losses from these translations
+are credited or charged to foreign currency translation included in "accumulated other comprehensive income" in shareholders' equity. The Company's foreign manufacturing subsidiaries and certain other
+international subsidiaries that use the U. S. dollar as their functional currency remeasure monetary assets and liabilities at exchange rates in effect at the end of each period, and inventories,
+property, and nonmonetary assets and liabilities at historical rates. Gains and losses from these translations were insignificant and have been included in the Company's results of operations.
+
+Revenue Recognition
+
+Net sales consist primarily of revenue from the sale of hardware, software, music products, digital content, peripherals, and service and support contracts. For any product
+within these groups that either is software, or is considered software-related in accordance with the guidance in Emerging Issues Task Force ("EITF") No. 03-5, Applicability of AICPA Statement of Position 97-2 to
+Non-Software Deliverables in an Arrangement Containing More-Than-Incidental
+Software(e. g., Macintosh computers and iPod portable digital music players), the Company accounts for such products in accordance with the revenue recognition provisions of
+American Institute of Certified Public Accountants ("AICPA") Statement of Position ("SOP") No. 97-2, Software Revenue Recognition.
+The Company applies Staff Accounting Bulletin ("SAB") No. 104, Revenue Recognition, for products that are not software or software-related, such
+as digital content sold on the iTunes Store and certain Mac, iPod and iPhone supplies and accessories.
+
+The
+Company recognizes revenue when persuasive evidence of an arrangement exists, delivery has occurred, the sales price is fixed or determinable, and collection is probable. Product is considered
+delivered to the customer once it has been shipped and title and risk of loss have been transferred. For
+
+61
+
+most
+of the Company's product sales, these criteria are met at the time the product is shipped. For online sales to individuals, for some sales to education customers in the U. S., and for certain
+other sales, the Company defers revenue until the customer receives the product because the Company legally retains a portion of the risk of loss on these sales during transit. If at the outset of an
+arrangement the Company determines the arrangement fee is not, or is presumed not to be, fixed or determinable, revenue is deferred and subsequently recognized as amounts become due and payable.
+
+Revenue
+from service and support contracts is deferred and recognized ratably over the service coverage periods. These contracts typically include extended phone support, repair services,
+web-based support resources, diagnostic tools, and extend the service coverage offered under the Company's one-year limited warranty.
+
+The
+Company sells software and peripheral products obtained from other companies. The Company establishes its own pricing and retains related inventory risk, is the primary obligor in sales
+transactions with its customers, and assumes the credit risk for amounts billed to its customers. Accordingly, the Company recognizes revenue for the sale of products obtained from other companies
+based on the gross amount billed.
+
+The
+Company accounts for multiple element arrangements that consist only of software or software-related products in accordance with SOP No. 97-2. If a multiple-element arrangement
+includes deliverables that are neither software nor software-related, the Company applies EITF No. 00-21, Revenue Arrangements with Multiple
+Deliverables, to determine if those deliverables constitute separate units of accounting from the SOP No. 97-2 deliverables. If the Company can separate the
+deliverables, the Company applies SOP No. 97-2 to the software and software-related deliverables and applies other appropriate guidance (e. g., SAB No. 104) to the
+deliverables outside the scope of SOP No. 97-2. Revenue on arrangements that include multiple elements such as hardware, software, and services is allocated to each element based on
+the relative fair value of each element. Each element's allocated revenue is recognized when the revenue recognition criteria for that element have been met. Fair value is generally determined by
+vendor specific objective evidence ("VSOE"), which is based on the price charged when each element is sold separately. If the Company cannot objectively determine the fair value of any undelivered
+element included in a multiple-element arrangement, the Company defers revenue until all elements are delivered and services have been performed, or until fair value can objectively be determined for
+any remaining undelivered elements. When the fair value of a delivered element has not been established, the Company uses the residual method to recognize revenue if the fair value of all undelivered
+elements is determinable. Under the residual method, the fair value of the undelivered elements is deferred and the remaining portion of the arrangement fee is allocated to the delivered elements and
+is recognized as revenue.
+
+The
+Company records reductions to revenue for estimated commitments related to price protection and for customer incentive programs, including reseller and end-user rebates, and other
+sales programs and volume-based incentives. The estimated cost of these programs is accrued as a reduction to revenue in the period the Company has sold the product and committed to a plan. The
+Company also records reductions to revenue for expected future product returns based on the Company's historical experience. Revenue is recorded net of taxes collected from customers that are remitted
+to governmental authorities, with the collected taxes recorded as current liabilities until remitted to the relevant government authority.
+
+Generally,
+the Company does not offer specified or unspecified upgrade rights to its customers in connection with software sales or the sale of extended warranty and support contracts. When the
+Company does offer specified upgrade rights, the Company defers revenue for the fair value of the specified upgrade
+
+62
+
+right
+until the future obligation is fulfilled or when the right to the specified upgrade expires. Additionally, a limited number of the Company's software products are available with maintenance
+agreements that grant customers rights to unspecified future upgrades over the maintenance term on a when and if available basis. Revenue associated with such maintenance is recognized ratably over
+the maintenance term.
+
+In
+March 2007, the Company began shipping Apple TV and in June 2007 began shipping iPhone. For Apple TV and iPhone, the Company indicated it may provide future unspecified features and
+additional software products free of charge to customers. Accordingly, Apple TV and iPhone handsets sales are accounted for under subscription accounting in accordance with SOP
+No. 97-2. As such, the Company's policy is to defer the associated revenue and cost of goods sold at the time of sale, and recognize both on a straight-line basis over
+the currently estimated 24-month economic life of these products, with any loss recognized at the time of sale. Costs incurred by the Company for engineering, sales, marketing and warranty
+are expensed as incurred.
+
+Allowance for Doubtful Accounts
+
+The Company records its allowance for doubtful accounts based upon its assessment of various factors. The Company considers historical experience, the age of the accounts
+receivable balances, credit quality of the Company's customers, current economic conditions, and other factors that may affect customers' ability to pay.
+
+Shipping Costs
+
+For all periods presented, amounts billed to customers related to shipping and handling are classified as revenue, and the Company's shipping and handling costs are included in
+cost of sales.
+
+Warranty Expense
+
+The Company generally provides for the estimated cost of hardware and software warranties at the time the related revenue is recognized. The Company assesses the adequacy of
+its preexisting warranty liabilities and adjusts the amounts as necessary based on actual experience and changes in future estimates. For products accounted for under subscription accounting pursuant
+to SOP No. 97-2, the Company recognizes warranty expense as incurred.
+
+Software Development Costs
+
+Research and development costs are expensed as incurred. Development costs of computer software to be sold, leased, or otherwise marketed are subject to capitalization
+beginning when a product's technological feasibility has been established and ending when a product is available for general release to customers pursuant to SFAS No. 86, Computer Software to be Sold, Leased, or Otherwise
+Marketed. In most instances, the Company's products are released soon after technological feasibility
+has been established. Therefore, costs incurred subsequent to achievement of technological feasibility are usually not significant, and generally most software development costs have been expensed.
+
+In
+2007, the Company determined that both Mac OS X Version 10.5 Leopard ("Mac OS X Leopard") and iPhone achieved technological feasibility. During 2007, the Company capitalized $75 million of
+costs associated with the development of Leopard and iPhone. In accordance with SFAS No. 86, the capitalized costs related to Mac OS X Leopard and iPhone are amortized to cost of
+sales commencing when each respective product begins shipping and are recognized on a straight-line basis over a 3 year estimated useful life of the underlying technology.
+
+63
+
+Total
+amortization related to capitalized software development costs was $13 million, $18 million, and $16 million in 2007, 2006, and 2005, respectively.
+
+Advertising Costs
+
+Advertising costs are expensed as incurred. Advertising expense was $467 million, $338 million, and $287 million for 2007, 2006, and 2005, respectively.
+
+Stock-Based Compensation
+
+On September 25, 2005, the Company adopted SFAS No. 123 (revised 2004) ("SFAS No. 123R"), Share-Based
+Payment, which addresses the accounting for stock-based payment transactions in which an enterprise receives employee services in exchange for (a) equity instruments of
+the enterprise or (b) liabilities that are based on the fair value of the enterprise's equity instruments or that may be settled by the issuance of such equity instruments. In
+January 2005, the Securities and Exchange Commission ("SEC") issued SAB No. 107, which provides supplemental implementation guidance for SFAS No. 123R. SFAS No. 123R
+eliminates the ability to account for stock-based compensation transactions using the intrinsic value method under Accounting Principles Board ("APB") Opinion No. 25, Accounting for Stock Issued to
+Employees, and instead generally requires that such transactions be accounted for using a fair-value-based
+method. The Company uses the Black-Scholes-Merton ("BSM") option-pricing model to determine the fair-value of stock-based awards under SFAS No. 123R, consistent with that used for
+pro forma disclosures under SFAS No. 123, Accounting for Stock-Based Compensation.
+
+SFAS
+No. 123R prohibits recognition of a deferred tax asset for an excess tax benefit that has not been realized. The Company will recognize a benefit from stock-based compensation in equity if
+an incremental tax benefit is realized by following the ordering provisions of the tax law. In addition, the Company accounts for the indirect effects of stock-based compensation on the research tax
+credit, the foreign tax credit, and the domestic manufacturing deduction through the income statement.
+
+Prior
+to the adoption of SFAS No. 123R, the Company measured compensation expense for its employee stock-based compensation plans using the intrinsic value method prescribed by APB Opinion
+No. 25. The Company applied the disclosure provisions of SFAS No. 123 as amended by SFAS No. 148, Accounting for Stock-Based
+Compensation - Transition and Disclosure, as if the fair-value-based method had been applied in measuring compensation expense. Under APB Opinion
+No. 25, when the exercise price of the Company's employee stock options was equal to the market price of the underlying stock on the date of the grant, no compensation expense was recognized.
+
+64
+
+The
+following table illustrates the effect on net income after taxes and net income per common share as if the Company had applied the fair value recognition provisions of SFAS No. 123 to
+stock-based compensation during 2005 (in millions, except per share amounts):
+
+                                                                                                                                              2005             
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income                                                                                                                                  $         1,328  
+  Add: Stock-based employee compensation expense included in reported net income, net of tax                                                               45  
+  Deduct: Stock-based employee compensation expense determined under the fair value based method for all awards, net of tax                              (118  
+  Net income—pro forma                                                                                                                        $         1,255  
+  Net income per common share                                                                                                                                  
+                                                                                                                                 Basic        $          1.64  
+                                                                                                                                 Diluted      $          1.55  
+  Net income per common share—pro forma                                                                                                                        
+                                                                                                                                 Basic        $          1.55  
+                                                                                                                                 Diluted      $          1.47  
+
+Further
+information regarding stock-based compensation can be found in Notes 6 and 7.
+
+Earnings Per Common Share
+
+Basic earnings per common share is computed by dividing income available to common shareholders by the weighted-average number of shares of common stock outstanding during the
+period. Diluted earnings per common share is computed by dividing income available to common shareholders by the weighted-average number of shares of common stock outstanding during the period
+increased to include the number of additional shares of common stock that would have been outstanding if the dilutive potential shares of common stock had been issued. The dilutive effect of
+outstanding options, shares to be purchased under the employee stock purchase plan, unvested restricted stock and restricted stock units ("RSUs") is reflected in diluted earnings per share by
+application of the treasury stock method. Under the treasury stock method, an increase in the fair market value of the Company's common stock can result in a greater dilutive effect from outstanding
+options, restricted stock, and RSUs. Additionally, the exercise of employee stock options and the vesting of restricted stock and RSUs can result in a greater dilutive effect on earnings per share.
+
+65
+
+The
+following table sets forth the computation of basic and diluted earnings per share (in thousands, except net income and per share amounts):
+
+  Three fiscal years ended September 29, 2007                                                                                    2007                   2006                   2005               
+  Numerator (in millions):                                                                                                                                                                        
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net income                                                                                                                     $           3,496      $           1,989      $           1,328  
+  Denominator (in thousands):                                                                                                                                                                     
+                                                   Weighted-average shares outstanding, excluding unvested restricted stock                864,595                844,058                808,439  
+                                                   Effect of dilutive securities                                                            24,697                 33,468                 48,439  
+                                                   Denominator for diluted earnings per share                                              889,292                877,526                856,878  
+  Basic earnings per share                                                                                                       $            4.04      $            2.36      $            1.64  
+  Diluted earnings per share                                                                                                     $            3.93      $            2.27      $            1.55  
+
+Potentially
+dilutive securities representing 13.7 million, 3.9 million, and 12.7 million shares of common stock for the years ended September 29, 2007, September 30,
+2006, and September 24, 2005, respectively, were excluded from the computation of diluted earnings per share for these periods because their effect would have been antidilutive. These
+potentially dilutive securities include stock options, unvested restricted stock, and RSUs.
+
+Comprehensive Income
+
+Comprehensive income consists of two components, net income and other comprehensive income. Other comprehensive income refers to revenue, expenses, gains, and losses that under
+U. S. generally accepted accounting principles are recorded as an element of shareholders' equity but are excluded from net income. The Company's other comprehensive income consists of foreign currency
+translation adjustments from those subsidiaries not using the U. S. dollar as their functional currency, unrealized gains and losses on marketable securities categorized as
+available-for-sale, and net deferred gains and losses on certain derivative instruments accounted for as cash flow hedges.
+
+Segment Information
+
+The Company reports segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions
+and assessing performance as the source of the Company's reportable segments. Information about the Company's products, major customers, and geographic areas on a company-wide basis is
+also disclosed.
+
+66
+
+Note 2 - Financial Instruments
+
+Cash, Cash Equivalents and Short-Term Investments
+
+The following table summarizes the fair value of the Company's cash and available-for-sale securities held in its short-term investment
+portfolio, recorded as cash and cash equivalents or short-term investments (in millions):
+
+                                                                                                          September 29, 2007                  September 30, 2006              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash                                                                                                    $                          256      $                          200  
+  U. S. Treasury and Agency securities                                                                                               670                                  52  
+  U. S. Corporate securities                                                                                                       5,597                               4,309  
+  Foreign securities                                                                                                               2,829                               1,831  
+                                            Total cash equivalents                                                                 9,096                               6,192  
+  U. S. Treasury and Agency securities                                                                                               358                                 447  
+  U. S. Corporate securities                                                                                                       4,718                               2,701  
+  Foreign securities                                                                                                                 958                                 570  
+                                            Total short-term investments                                                           6,034                               3,718  
+                                            Total cash, cash equivalents, and short-term investments      $                       15,386      $                       10,110  
+
+The
+Company's U. S. Corporate securities consist primarily of commercial paper, certificates of deposit, time deposits, and corporate debt securities. Foreign securities consist primarily of foreign
+commercial paper issued by foreign companies, and certificates of deposit and time deposits with foreign institutions, most of which are denominated in U. S. dollars. The Company had $11 million
+in net unrealized losses on its investment portfolio, primarily related to investments with stated maturities ranging from 1 to 5 years, as of September 29, 2007, and net unrealized
+losses of approximately $687,000 on its investment portfolio, primarily related to investments with stated maturities less than 1 year, as of September 30, 2006. The Company may sell its
+investments prior to their stated maturities for strategic purposes, in anticipation of credit deterioration, or for duration management. The Company recognized net gains before taxes of approximately
+$474,000 in 2007 and net losses before taxes of approximately $434,000 and $137,000 in 2006 and 2005, respectively.
+
+As
+of September 29, 2007 and September 30, 2006, $1.9 billion and $921 million, respectively, of the Company's short-term investments had underlying maturities
+ranging from 1 to 5 years. The remaining short-term investments as of September 29, 2007 and September 30, 2006 had maturities less than 12 months.
+
+In
+accordance with FASB Staff Position ("FSP") FAS 115-1 and FAS 124-1, The Meaning of Other-Than-Temporary
+Impairment and Its Application to Certain Investments, the following table shows the gross unrealized losses and fair value for those investments that were in an unrealized
+loss position as of
+
+67
+
+September 29,
+2007 and September 30, 2006, aggregated by investment category and the length of time that individual securities have been in a continuous loss position
+(in millions):
+
+                                            2007                                                                                              
+                                            Less than 12 Months                          12 Months or Greater      Total                      
+  Security Description                      Fair                                         Fair                      Fair                       
+                                            Value                                        Value                     Value                      
+  U. S. Treasury and Agency securities      $                          338        —      $                         $            338        —  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  U. S. Corporate securities                                         2,521      (12                                           2,553      (12  
+  Foreign securities                                                   474       (1                                             482       (1  
+  Total                                     $                        3,333      (13      $                         $          3,373      (13  
+
+                                            2006                                                                                                     
+                                            Less than 12 Months                                 12 Months or Greater               Total             
+  Security Description                      Fair                                Unrealized      Fair                               Fair              
+                                            Value                               Loss            Value                              Value             
+  U. S. Treasury and Agency securities      $                          234      $               $                          26      $            260  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  U. S. Corporate securities                                           943                                                102                 1,045  
+  Foreign securities                                                   164                                                 34                   198  
+  Total                                     $                        1,341      $               $                         162      $          1,503  
+
+The
+unrealized losses on the Company's investments during 2007 in U. S. Corporate securities and foreign securities and during 2006 in U. S. Corporate securities were caused primarily by changes in
+interest rates. The Company typically invests in highly-rated securities with strong liquidity and with low probabilities of default. The Company's investment policy requires investments to be rated
+single-A or better. Therefore, the Company considers the declines to be temporary in nature. During 2007, the Company did not record any material impairment on outstanding securities. As
+of September 29, 2007, the Company does not consider the investments to be other-than-temporarily impaired.
+
+Market
+values were determined for each individual security in the investment portfolio. When evaluating the investments for other-than-temporary impairment, the Company reviews
+factors such as the length of time and extent to which fair value has been below cost basis, the financial condition of the issuer, and the Company's ability and intent to hold the investment for a
+period of time, which may be sufficient for anticipated recovery in market value.
+
+Accounts Receivable
+
+Trade Receivables
+
+The Company distributes its products through third-party distributors and resellers and directly to certain education, consumer, and commercial customers. The Company generally
+does not require collateral from its customers; however, the Company requires collateral in certain instances to limit credit risk. In addition, when possible, the Company attempts to limit credit
+risk on trade receivables with credit insurance for certain customers in Latin America, Europe, Asia, and Australia by arranging with third-party financing companies to provide flooring arrangements
+and other loan and lease programs to the Company's direct customers. These credit-financing arrangements are directly between the third-party financing company and the end customer. As such, the
+Company generally does not assume any recourse or credit risk sharing related to any of these arrangements. However, considerable trade receivables not
+
+68
+
+covered
+by collateral, third-party flooring arrangements, or credit insurance are outstanding with the Company's distribution and retail channel partners. One customer accounted for approximately 11%
+of trade receivables as of September 29, 2007, while no customers accounted for more than 10% of trade receivables as of September 30, 2006.
+
+The
+following table summarizes the activity in the allowance for doubtful accounts (in millions):
+
+                                     September 29, 2007               September 30, 2006               September 24, 2005          
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Beginning allowance balance        $                        52      $                        46      $                       47  
+  Charged to costs and expenses                               12                               17                               8  
+  Deductions                                                 (17                              (11                              (9  
+  Ending allowance balance           $                        47      $                        52      $                       46  
+
+Vendor Non-Trade Receivables
+
+The Company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of raw material components to these manufacturing vendors
+who manufacture sub-assemblies or assemble final products for the Company. The Company purchases these raw material components directly from suppliers. These non-trade
+receivables, which are included in the Consolidated Balance Sheets in other current assets, totaled $2.4 billion and $1.6 billion as of September 29, 2007 and September 30,
+2006, respectively. The Company does not reflect the sale of these components in net sales and does not recognize any profits on these sales until the products are sold through to the end customer at
+which time the profit is recognized as a reduction of cost of sales.
+
+Derivative Financial Instruments
+
+The Company uses derivatives to partially offset its business exposure to foreign exchange risk. Foreign currency forward and option contracts are used to offset the foreign
+exchange risk on certain existing assets and liabilities and to hedge the foreign exchange risk on expected future cash flows on certain forecasted revenue and cost of sales. The Company's accounting
+policies for these instruments are based on whether the instruments are designated as hedge or non-hedge instruments. The Company records all derivatives on the balance sheet at fair
+value.
+
+69
+
+The
+following table shows the notional principal, net fair value, and credit risk amounts of the Company's foreign currency instruments as of September 29, 2007 and September 30, 2006
+(in millions):
+
+                              September 29, 2007                                  September 30, 2006             
+                                        Notional      Fair       Credit Risk                Notional      Fair   
+                                       Principal      Value      Amounts                   Principal      Value  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Spot/Forward contracts                    $570      $          $                              $351      $      
+  Purchased options                       $2,564      $          $                            $1,256      $      
+  Sold options                            $1,498      $          $                               $80      $      
+  Spot/Forward contracts                  $1,768      $          $                            $1,103      $      
+  Purchased options                         $161      $          $                              $167      $      
+
+The
+notional principal amounts for derivative instruments provide one measure of the transaction volume outstanding as of year-end, and do not represent the amount of the Company's
+exposure to credit or market loss. The credit risk amounts shown in the table above represents the Company's gross exposure to potential accounting loss on these transactions if all counterparties
+failed to perform according to the terms of the contract, based on then-current currency exchange rates at each respective date. The Company's exposure to credit loss and market risk will
+vary over time as a function of currency exchange rates.
+
+The
+estimates of fair value are based on applicable and commonly used pricing models and prevailing financial market information as of September 29, 2007 and September 30, 2006. Although
+the table above reflects the notional principal, fair value, and credit risk amounts of the Company's foreign exchange instruments, it does not reflect the gains or losses associated with the
+exposures and transactions that the foreign exchange instruments are intended to hedge. The amounts ultimately realized upon settlement of these financial instruments, together with the gains and
+losses on the underlying exposures, will depend on actual market conditions during the remaining life of the instruments.
+
+Foreign Exchange Risk Management
+
+The Company may enter into foreign currency forward and option contracts with financial institutions to protect against foreign exchange risk associated with existing assets
+and liabilities, certain firmly committed transactions, forecasted future cash flows, and net investments in foreign subsidiaries. Generally, the Company's practice is to hedge a majority of its
+material foreign exchange exposures. However, the Company may choose not to hedge certain foreign exchange exposures due to immateriality, prohibitive economic cost of hedging particular exposures, or
+limited availability of appropriate hedging instruments.
+
+To
+help protect gross margins from fluctuations in foreign currency exchange rates, the Company's U. S. dollar functional subsidiaries hedge a portion of forecasted foreign currency revenue, and the
+Company's non-U. S. dollar functional subsidiaries selling in local currencies hedge a portion of forecasted inventory purchases not denominated in the subsidiaries' functional currency.
+Other comprehensive income associated with hedges of foreign currency revenue is recognized as a component of net sales in the same period as the related sales are recognized, and other comprehensive
+income related to inventory purchases is recognized as a component of cost of sales in the same period as the related costs are recognized.
+
+70
+
+Typically,
+the Company hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases over a time horizon of up to 6 months.
+
+Derivative
+instruments designated as cash flow hedges must be de-designated as hedges when it is probable the forecasted hedged transaction will not occur in the initially identified time
+period or within a subsequent 2 month time period. Deferred gains and losses in other comprehensive income associated with such derivative instruments are immediately reclassified into earnings
+in other income and expense. Any subsequent changes in fair value of such derivative instruments are also reflected in current earnings unless they are re-designated as hedges of other
+transactions. The Company recognized net gains of approximately $672,000 and $421,000 in 2007 and 2006, respectively, and a net loss of $1.6 million in 2005 in other income and expense related
+to the loss of hedge designation on discontinued cash flow hedges due to changes in the Company's forecast of future net sales and cost of sales and due to prevailing market conditions. As of
+September 29, 2007, the Company had a net deferred gain associated with cash flow hedges of approximately $468,000, net of taxes, substantially all of which is expected to be reclassified to
+earnings by the end of the second quarter of fiscal 2008.
+
+The
+net gain or loss on the effective portion of a derivative instrument designated as a net investment hedge is included in the cumulative translation adjustment account of accumulated other
+comprehensive income within shareholders' equity. For the years ended September 29, 2007 and September 30, 2006, the Company had a net loss of $2.6 million and a net gain of
+$7.4 million, respectively, included in the cumulative translation adjustment.
+
+The
+Company may also enter into foreign currency forward and option contracts to offset the foreign exchange gains and losses generated by the re-measurement of certain assets and
+liabilities recorded in non-functional currencies. Changes in the fair value of these derivatives are recognized in current earnings in other income and expense as offsets to the changes
+in the fair value of the related assets or liabilities. Due to currency market movements, changes in option time value can lead to increased volatility in other income and expense.
+
+Note 3 - Consolidated Financial Statement Details (in millions)
+
+Other Current Assets
+
+                                     2007                 2006             
+ ───────────────────────────────────────────────────────────────────────────
+  Vendor non-trade receivables       $         2,392      $         1,593  
+  NAND flash memory prepayments                  417                  208  
+  Other current assets                           996                  469  
+  Total other current assets         $         3,805      $         2,270  
+
+71
+
+Property, Plant, and Equipment
+
+                                                       2007                  2006             
+ ──────────────────────────────────────────────────────────────────────────────────────────────
+  Land and buildings                                   $            762      $           626  
+  Machinery, equipment, and internal-use software                   954                  595  
+  Office furniture and equipment                                    106                   94  
+  Leasehold improvements                                          1,019                  760  
+                                                                  2,841                2,075  
+  Accumulated depreciation and amortization                      (1,009                 (794  
+  Net property, plant, and equipment                   $          1,832      $         1,281  
+
+Other Assets
+
+                                                   2007                 2006             
+ ─────────────────────────────────────────────────────────────────────────────────────────
+  Long-term NAND flash memory prepayments          $           625      $         1,042  
+  Non-current deferred tax assets                               88                    —  
+  Capitalized software development costs, net                   83                   21  
+  Other assets                                                 426                  175  
+  Total other assets                               $         1,222      $         1,238  
+
+Accrued Expenses
+
+                                                  2007                 2006             
+ ────────────────────────────────────────────────────────────────────────────────────────
+  Deferred revenue—current                        $         1,410      $           718  
+  Deferred margin on component sales                          545                  324  
+  Other accrued tax liabilities                               488                  388  
+  Accrued marketing and distribution                          288                  298  
+  Accrued compensation and employee benefits                  254                  221  
+  Accrued warranty and related costs                          230                  284  
+  Other current liabilities                                 1,114                  820  
+  Total accrued expenses                          $         4,329      $         3,053  
+
+Non-Current Liabilities
+
+                                     2007                 2006           
+ ─────────────────────────────────────────────────────────────────────────
+  Deferred revenue—non-current       $           830      $         383  
+  Deferred tax liabilities                       619                381  
+  Other non-current liabilities                   67                 14  
+  Total non-current liabilities      $         1,516      $         778  
+
+72
+
+Other Income and Expense
+
+                                      2007               2006               2005           
+ ───────────────────────────────────────────────────────────────────────────────────────────
+  Interest income                     $         647      $         394      $         183  
+  Other income (expense), net                   (48                (29                (18  
+  Total other income and expense      $         599      $         365      $         165  
+
+Note 4 - Goodwill and Other Intangible Assets
+
+The Company is currently amortizing its acquired intangible assets with definite lives over periods ranging from 2 to 10 years. The following table summarizes the
+components of gross and net intangible asset balances (in millions):
+
+                                                          September 29, 2007                                          September 30, 2006                    
+                                                          Gross                            Accumulated                Gross                                 
+                                                          Carrying                         Amortization               Carrying                              
+                                                          Amount                                                      Amount                                
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Definite lived and amortizable acquired technology      $                       276      $                 199      $                       181      139  
+  Indefinite lived and unamortizable trademarks                                   100                        100                                —        —  
+  Total acquired intangible assets                        $                       376      $                 299      $                       181      139  
+  Goodwill                                                $                        38      $                  38      $                        38       38  
+
+As
+of September 29, 2007, and September 30, 2006, the weighted-average amortization period for acquired technology was 7.1 years and 8.5 years, respectively.
+
+During
+2006, the Company sold certain assets related to its PowerSchool web-based student information system operations. In connection with this sale, the Company reduced goodwill by
+$31 million for the outstanding balance from the acquisition of PowerSchool, Inc. in 2001 and recognized a $4 million pre-tax gain, which is reflected in other income
+and expense in the Consolidated Statement of Operations.
+
+Expected
+annual amortization expense related to acquired technology is as follows (in millions):
+
+  Fiscal Years:                           
+                           2008       52  
+                           2009       37  
+                           2010       28  
+                           2011       25  
+                           2012       19  
+                     Thereafter       38  
+  Total                              199  
+
+Amortization
+expense related to acquired intangible assets was $35 million, $12 million, and $9 million in 2007, 2006, and 2005, respectively.
+
+73
+
+Note 5 - Income Taxes
+
+The provision for income taxes consisted of the following (in millions):
+
+                                                2007                 2006               2005           
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────
+  Federal:                                                                                             
+                                  Current       $         1,219      $         619      $         305  
+                                  Deferred                   85                 56                144  
+                                                          1,304                675                449  
+  State:                                                                                               
+                                  Current                   112                 56                 66  
+                                  Deferred                    9                 14                (91  
+                                                            121                 70                (25  
+  Foreign:                                                                                             
+                                  Current                   103                101                 59  
+                                  Deferred                  (16                (17                 (3  
+                                                             87                 84                 56  
+  Provision for income taxes                    $         1,512      $         829      $         480  
+
+The
+foreign provision for income taxes is based on foreign pretax earnings of $2.2 billion, $1.5 billion, and $922 million in 2007, 2006, and 2005, respectively. As of
+September 29, 2007, $6.5 billion of the Company's cash, cash equivalents, and short-term investments were held by foreign subsidiaries and are generally based in U. S.
+dollar-denominated holdings. Amounts held by foreign subsidiaries are generally subject to U. S. income taxation on repatriation to the U. S. The Company's consolidated financial statements provide for
+any related tax liability on amounts that may be repatriated, aside from undistributed earnings of certain of the Company's foreign subsidiaries that are intended to be indefinitely reinvested in
+operations outside the U. S. U. S. income taxes have not been provided on a cumulative total of $2.4 billion of such earnings. It is not practicable to determine the income tax liability that
+might be incurred if these earnings were to be distributed.
+
+Deferred
+tax assets and liabilities reflect the effects of tax losses, credits, and the future income tax effects of temporary differences between the consolidated financial statement carrying amounts
+of existing assets and liabilities and their respective tax bases and are measured using enacted tax rates that apply to taxable income in the years in which those temporary differences are expected
+to be recovered or settled.
+
+74
+
+As
+of September 29, 2007 and September 30, 2006, the significant components of the Company's deferred tax assets and liabilities were (in millions):
+
+                                                                                 2007                 2006           
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Deferred tax assets:                                                                                               
+                                 Accrued liabilities and other reserves          $           679      $         485  
+                                 Tax losses and credits                                        8                 55  
+                                 Basis of capital assets and investments                     146                124  
+                                 Accounts receivable and inventory reserves                   64                 45  
+                                 Other                                                       161                 30  
+                                 Total deferred tax assets                                 1,058                739  
+  Less valuation allowance                                                                     5                  5  
+  Net deferred tax assets                                                                  1,053                734  
+  Deferred tax liabilities:                                                                                          
+                                 Unremitted earnings of subsidiaries                         803                514  
+                                 Total deferred tax liabilities                              803                514  
+  Net deferred tax asset                                                         $           250      $         220  
+
+As
+of September 29, 2007, the Company has tax loss and credit carryforwards in the tax effected amount of $8 million. As of September 29, 2007 and September 30, 2006, a
+valuation allowance of $5 million was recorded against the deferred tax asset for the benefits of state operating losses that may not be realized. Management believes it is more likely than not
+that forecasted income, including income that may be generated as a result of certain tax planning strategies, together with the tax effects of the deferred tax liabilities, will be sufficient to
+fully recover the remaining deferred tax assets.
+
+A
+reconciliation of the provision for income taxes, with the amount computed by applying the statutory federal income tax rate (35% in 2007, 2006, and 2005) to income before provision for income
+taxes, is as follows (in millions):
+
+                                                              2007                 2006                2005           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Computed expected tax                                       $         1,753      $          987      $         633  
+  State taxes, net of federal effect                                      140                  86                (19  
+  Indefinitely invested earnings of foreign subsidiaries                 (297                (224                (98  
+  Nondeductible executive compensation                                      6                  11                 14  
+  Research and development credit, net                                    (54                 (12                (26  
+  Other items                                                             (36                 (19                (24  
+  Provision for income taxes                                  $         1,512      $          829      $         480  
+  Effective tax rate                                                       30                  29                 27  
+
+The
+Company's income taxes payable have been reduced by the tax benefits from employee stock options. The Company receives an income tax benefit calculated as the difference between the fair market
+value of the stock issued at the time of the exercise and the option price, tax effected. The net tax benefits from employee stock option transactions were $398 million, $419 million,
+and $428 million in 2007, 2006, and 2005, respectively, and were reflected as an increase to common stock in the Consolidated Statements of Shareholders' Equity.
+
+75
+
+The
+Internal Revenue Service ("IRS") has completed its field audit of the Company's federal income tax returns for the years 2002 through 2003 and proposed certain adjustments. The Company intends to
+contest certain of these adjustments through the IRS Appeals Office. All IRS audit issues for years prior to 2002 have been resolved. In addition, the Company is also subject to audits by state,
+local, and foreign tax authorities. Management believes that adequate provisions have been made for any adjustments that may result from tax examinations. However, the outcome of tax audits cannot be
+predicted with certainty. Should any issues addressed in the Company's tax audits be resolved in a manner not consistent with management's expectations, the Company could be required to adjust its
+provision for income tax in the period such resolution occurs. In 2007 and 2006, the Company recorded tax benefits of $63 million and $20 million, respectively, due to the settlement of
+prior year tax audits in the U. S.
+
+Note 6 - Shareholders' Equity
+
+Preferred Stock
+
+The Company has five million shares of authorized preferred stock, none of which is issued or outstanding. Under the terms of the Company's Restated Articles of Incorporation,
+the Board of Directors is authorized to determine or alter the rights, preferences, privileges and restrictions of the Company's authorized but unissued shares of preferred stock.
+
+Restricted Stock Units
+
+The Company's Board of Directors has granted RSUs to members of the Company's management team, excluding its CEO. These RSUs generally vest over four years either at the end of
+the four-year service period, in two equal installments on the second and fourth anniversaries of the date of grant, or in equal installments on each of the first through fourth
+anniversaries of the grant date. Upon vesting, the RSUs will convert into an equivalent number of shares of common stock. The compensation expense incurred by the Company for RSUs is based on the
+closing market price of the Company's common stock on the date of grant and is amortized ratably on a straight-line basis over the requisite service period. The RSUs have been reflected in
+the calculation of diluted earnings per share utilizing the treasury stock method.
+
+During
+2007 and 2006, 45,000 and 2.47 million, respectively, previously granted RSUs vested. A majority of these vested RSUs were net-share settled such that the Company withheld
+shares with value equivalent to the employees' minimum statutory obligation for the applicable income and other employment taxes, and remitted the cash to the appropriate taxing authorities. The total
+shares withheld of approximately 20,000 and 990,000 for 2007 and 2006, respectively, was based on the value of the RSUs on their vesting date as determined by the Company's closing stock price. Total
+payments for the employees' tax obligations to the taxing authorities were $3 million and $59 million in 2007 and 2006, respectively, and are reflected as a financing activity within the
+Consolidated Statements of Cash Flows. These net-share settlements had the effect of share repurchases by the Company as they reduced and retired the number of shares that would have
+otherwise been issued as a result of the vesting and did not represent an expense to the Company.
+
+CEO Restricted Stock Award
+
+On March 19, 2003, the Company's Board of Directors granted 10 million shares of restricted stock to the Company's CEO that vested on March 19, 2006. The
+amount of the restricted stock award expensed by the Company was based on the closing market price of the Company's common stock on the date of grant and was amortized ratably on a
+straight-line basis over the three-year requisite service period. Upon vesting during 2006, the 10 million shares of restricted stock had a fair value of
+$646.6 million and had grant-date fair value of $7.48 per share. The restricted stock award was net-share settled such that the Company withheld shares with value
+equivalent to the CEO's minimum statutory obligation for the applicable
+
+76
+
+income
+and other employment taxes, and remitted the cash to the appropriate taxing authorities. The total shares withheld of 4.6 million were based on the value of the restricted stock award on
+the vesting date as determined by the Company's closing stock price of $64.66. The remaining shares net of those withheld were delivered to the Company's CEO. Total payments for the CEO's tax
+obligations to the taxing authorities was $296 million in 2006 and are reflected as a financing activity within the Consolidated Statements of Cash Flows. The net-share settlement
+had the effect of share repurchases by the Company as it reduced and retired the number of shares outstanding and did not represent an expense to the Company. The Company's CEO has no remaining shares
+of restricted stock. For the years ended September 30, 2006 and September 24, 2005, compensation expense related to restricted stock was $4.6 million and $24.9 million,
+respectively.
+
+Stock Repurchase Plan
+
+In July 1999, the Company's Board of Directors authorized a plan for the Company to repurchase up to $500 million of its common stock. This repurchase plan does
+not obligate the Company to acquire any specific number of shares or acquire shares over any specified period of time. The Company has repurchased a total of 13.1 million shares at a cost of
+$217 million under this plan and was authorized to repurchase up to an additional $283 million of its common stock as of September 29, 2007.
+
+Comprehensive Income
+
+Comprehensive income consists of two components, net income and other comprehensive income. Other comprehensive income refers to revenue, expenses, gains, and losses that under
+U. S. generally accepted accounting principles are recorded as an element of shareholders' equity but are excluded from net income. The Company's other comprehensive income consists of foreign currency
+translation adjustments from those subsidiaries not using the U. S. dollar as their functional currency, unrealized gains and losses on marketable securities categorized as
+available-for-sale, and net deferred gains and losses on certain derivative instruments accounted for as cash flow hedges.
+
+The
+following table summarizes the components of accumulated other comprehensive income, net of taxes (in millions):
+
+                                                          2007              2006              2005  
+  Unrealized losses on available-for-sale securities      $         (7      $          —      $     
+ ────────────────────────────────────────────────────────────────────────────────────────────────────
+  Unrealized gains on derivative instruments                         —                 3            
+  Cumulative foreign currency translation                           70                19            
+  Accumulated other comprehensive income                  $         63      $         22      $     
+
+The
+change in fair value of available-for-sale securities included in other comprehensive income was $(7) million, $4 million, and zero, net of taxes in 2007, 2006, and
+2005, respectively. The tax effect related to the change in unrealized gain/loss on available-for-sale securities was $4 million, $(2) million, and zero for 2007, 2006,
+and 2005, respectively.
+
+77
+
+The
+following table summarizes activity in other comprehensive income related to derivatives, net of taxes, held by the Company (in millions):
+
+                                                                             2007      2006               2005          
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Changes in fair value of derivatives                                       $         $          11      $          7  
+  Adjustment for net (losses)/gains realized and included in net income                          (12                 1  
+  Change in unrealized gains on derivative instruments                       $         $          (1      $          8  
+
+The
+tax effect related to the changes in fair value of derivatives was $1 million, $(8) million, and $(3) million for 2007, 2006, and 2005, respectively. The tax effect related to derivative
+gains/losses reclassified from other comprehensive income to net income was $2 million, $8 million, and $(2) million for 2007, 2006, and 2005, respectively.
+
+Employee Benefit Plans
+
+2003 Employee Stock Plan
+
+The 2003 Employee Stock Plan (the "2003 Plan") is a shareholder approved plan that provides for broad-based grants to employees, including executive officers. Based on the
+terms of individual option grants, options granted under the 2003 Plan generally expire 7 to 10 years after the grant date and generally become exercisable over a period of four years, based on
+continued employment, with either annual or quarterly vesting. The 2003 Plan permits the granting of incentive stock options, nonstatutory stock options, RSUs, stock appreciation rights, stock
+purchase rights and performance-based awards.
+During 2007, the Company's shareholders approved an amendment to the 2003 Plan to increase the number of shares authorized for issuance by 28 million shares.
+
+1997 Employee Stock Option Plan
+
+In August 1997, the Company's Board of Directors approved the 1997 Employee Stock Option Plan (the "1997 Plan"), a non-shareholder approved plan for grants
+of stock options to employees who are not officers of the Company. Based on the terms of individual option grants, options granted under the 1997 Plan generally expire 7 to 10 years after the
+grant date and generally become exercisable over a period of four years, based on continued employment, with either annual or quarterly vesting. In October 2003, the Company terminated the 1997
+Plan and no new options can be granted from this plan.
+
+1997 Director Stock Option Plan
+
+In August 1997, the Company's Board of Directors adopted a Director Stock Option Plan (the "Director Plan") for non-employee directors of the Company, which
+was approved by shareholders in 1998. Pursuant to the Director Plan, the Company's non-employee directors are granted an option to acquire 30,000 shares of common stock upon their initial
+election to the Board ("Initial Options"). The Initial Options vest and become exercisable in three equal annual installments on each of the first
+through third anniversaries of the grant date. On the fourth anniversary of a non-employee director's initial election to the Board and on each subsequent anniversary thereafter, the
+director will be entitled to receive an option to acquire 10,000 shares of common stock ("Annual Options"). Annual Options are fully vested and immediately exercisable on their date of grant.
+
+Rule 10b5-1 Trading Plans
+
+Certain of the Company's executive officers, including Mr. Timothy D. Cook, Mr. Peter Oppenheimer, Mr. Philip W. Schiller, and Dr. Bertrand Serlet,
+have entered into trading plans pursuant to
+
+78
+
+Rule 10b5-1(c)(1)
+of the Securities Exchange Act of 1934, as amended. A trading plan is a written document that pre-establishes the amounts, prices and dates (or formula
+for determining the amounts, prices and dates) of future purchases or sales of the Company's stock including the exercise and sale of employee stock options and shares acquired pursuant to the
+Company's employee stock purchase plan and upon vesting of RSUs.
+
+Employee Stock Purchase Plan
+
+The Company has a shareholder approved employee stock purchase plan (the "Purchase Plan"), under which substantially all employees may purchase common stock through payroll
+deductions at a price equal to 85% of the lower of the fair market values as of the beginning and end of six-month offering periods. Stock purchases under the Purchase Plan are limited to
+10% of an employee's compensation, up to a maximum of $25,000 in any calendar year. During 2007, the Company's shareholders approved an amendment to the Purchase Plan to increase the number of shares
+authorized for issuance by 6 million shares and limit the number of shares that may be purchased in any calendar year to 3 million shares. As of September 29, 2007, approximately
+7 million shares were reserved for future issuance under the Purchase Plan.
+
+Employee Savings Plan
+
+The Company has an employee savings plan (the "Savings Plan") qualifying as a deferred salary arrangement under Section 401(k) of the Internal Revenue Code. Under the
+Savings Plan, participating U. S. employees may defer a portion of their pre-tax earnings, up to the Internal Revenue Service annual contribution limit ($15,500 for calendar year 2007). The
+Company matches 50% to 100% of each employee's contributions, depending on length of service, up to a maximum 6% of the employee's eligible earnings. The Company's matching contributions to the
+Savings Plan were $39 million, $33 million, and $28 million in 2007, 2006, and 2005, respectively.
+
+79
+
+Stock Option Activity
+
+A summary of the Company's stock option activity and related information for the last three fiscal years follows (stock award amounts and aggregate intrinsic value are
+presented in thousands):
+
+                                                                                                      Outstanding Options                                                                        
+                                                                                          Shares      Number of                Weighted-Average                 Weighted-Average                 
+                                                                                       Available      Shares                   Exercise Price                          Remaining                 
+                                                                                       for Grant                                                                Contractual Term                 
+                                                 Additional options authorized            49,000      —                                              —                                           
+                                                 Restricted stock units granted             (460      —                                              —                                           
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Balance at September 25, 2004                                                           24,050      110,722                  $                     10.52                                       
+                                                 Options granted                         (16,214      16,214                   $                     42.52                                       
+                                                 Options cancelled                         3,844      (3,844                   $                     13.28                                       
+                                                 Options exercised                             —      (49,871                  $                     10.05                                       
+                                                 Restricted stock units cancelled            230      —                                              —                                           
+                                                 Plan shares expired                      (1,493      —                                              —                                           
+  Balance at September 24, 2005                                                           58,957      73,221                   $                     17.79                                       
+                                                 Restricted stock units granted           (2,950      —                                              —                                           
+                                                 Options granted                          (3,881      3,881                    $                     65.28                                       
+                                                 Options cancelled                         2,325      (2,325                   $                     29.32                                       
+                                                 Restricted stock units cancelled            625      —                                              —                                           
+                                                 Options exercised                             —      (21,795                  $                     11.78                                       
+                                                 Plan shares expired                         (82      —                                              —                                           
+  Balance at September 30, 2006                                                           54,994      52,982                   $                     23.23                                       
+                                                 Additional shares authorized             28,000      —                                              —                                           
+                                                 Restricted stock units granted           (2,640      —                                              —                                           
+                                                 Options granted                         (14,010      14,010                   $                     94.52                                       
+                                                 Options cancelled                         1,471      (1,471                   $                     55.38                                       
+                                                 Restricted stock units cancelled             20      —                                              —                                           
+                                                 Options exercised                             —      (15,770                  $                     18.32                                       
+                                                 Plan shares expired                          (8      —                                              —                                           
+  Balance at September 29, 2007                                                           67,827      49,751                   $                     43.91                  4.57      5,450,528  
+  Exercisable at September 29, 2007                                                                   27,319                   $                     23.13                  3.80      3,560,682  
+  Expected to Vest after September 29, 2007                                                           21,260                   $                     72.69                  5.51      1,717,383  
+
+Aggregate intrinsic value represents the value of the Company's closing stock price on the last trading day of the fiscal period in excess of the exercise price
+multiplied by the number of options outstanding or exercisable. Total intrinsic value of options at time of exercise was $1.3 billion, $1.2 billion, and $1.1 billion for 2007,
+2006, and 2005, respectively.
+
+The
+Company recognized $242 million, $163 million and $49 million of stock-based compensation expense in 2007, 2006 and 2005, respectively. Capitalized stock-based compensation
+costs were $9 million as of September 29, 2007. There were no stock-based compensation costs capitalized as of September 30, 2006. The income tax benefit related to stock-based
+compensation expense was $81 million and $39 million for the years ended September 29, 2007 and September 30, 2006, respectively. The total unrecognized compensation cost
+related to stock options and RSUs expected to vest was $631 million and $375 million as of September 29, 2007 and September 30, 2006, respectively. The total unrecognized
+compensation cost as of September 29, 2007, is expected to be recognized over a weighted-average period of 2.92 years.
+
+80
+
+Note 6 - Shareholders' Equity (Continued)
+
+As of September 29, 2007, the Company had 4.7 million RSUs outstanding with a total grant-date fair value of $249 million that were excluded
+from the options outstanding balances in the preceding table. The weighted-average grant date fair value of RSUs granted during 2007, 2006, and 2005 was $88.51 per share, $70.92 per share, and $45.04
+per share, respectively. Aggregate intrinsic value of RSUs was $701.3 million and $262.5 million at September 29, 2007 and September 30, 2006, respectively. RSUs that
+vested during 2007 and 2006 totaled 45,000 and 2.47 million, respectively, and had a fair value of $6.1 million and $148.5 million, respectively, as of the vesting date. Shares of
+RSUs granted after April 2005 have been deducted from the shares available for grant under the Company's stock option plans utilizing a factor of two times the number of RSUs granted.
+
+Note 7 - Stock-Based Compensation
+
+The Company has provided pro forma disclosures in Note 1 of the effect on net income and earnings per share for the year ended September 24, 2005 as if the fair
+value method of accounting for stock-based compensation had been used for its employee stock option grants and employee stock purchase plan purchases. These pro forma effects have been estimated at
+the date of grant and beginning of the period, respectively, using the BSM option-pricing model.
+
+The
+Company uses the BSM option-pricing model to calculate the fair value of stock-based awards. The BSM option-pricing model incorporates various assumptions including expected volatility, expected
+life, and interest rates. The expected volatility is based on the historical volatility of the Company's common stock over the most recent period commensurate with the estimated expected life of the
+Company's stock options and other relevant factors including implied volatility in market traded options on the Company's common stock. The Company bases its expected life assumption on its historical
+experience and on the terms and conditions of the stock awards it grants to employees. Stock-based compensation cost is estimated at the grant date based on the award's fair-value as
+calculated by the BSM option-pricing model and is recognized as expense ratably on a straight-line basis over the requisite service period.
+
+The
+weighted average assumptions used for 2007, 2006, and 2005 and the resulting estimates of weighted-average fair value per share of options granted and for stock purchases during those periods are
+as follows:
+
+                                                                      2007            2006            2005        
+  Expected life of stock options                                      3.46 years      3.56 years      3.57 years  
+  Expected life of stock purchases                                    6 months        6 months        6 months    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest rate—stock options                                         4.61            4.60            3.73        
+  Interest rate—stock purchases                                       5.13            4.29            2.54        
+  Volatility—stock options                                            38.13           40.34           39.52       
+  Volatility—stock purchases                                          39.22           39.56           40.88       
+  Dividend yields                                                     —               —               —           
+  Weighted-average fair value of options granted during the year      $31.86          $23.16          $14.41      
+  Weighted-average fair value of stock purchases during the year      $20.90          $14.06          $7.55       
+
+Note 8 - Commitments and Contingencies
+
+Lease Commitments
+
+The Company leases various equipment and facilities, including retail space, under noncancelable operating lease arrangements. The Company does not currently utilize any other
+off-balance sheet financing arrangements. The major facility leases are generally for terms of 3 to 15 years and generally
+
+81
+
+provide
+renewal options for terms of 3 to 7 additional years. Leases for retail space are for terms of 5 to 20 years, the majority of which are for 10 years, and often contain
+multi-year renewal options. As of September 29, 2007, the Company's total future minimum lease payments under noncancelable operating leases were $1.4 billion, of which
+$1.1 billion related to leases for retail space.
+
+Rent
+expense under all operating leases, including both cancelable and noncancelable leases, was $151 million, $138 million, and $140 million in 2007, 2006, and 2005,
+respectively. Future minimum lease payments under noncancelable operating leases having remaining terms in excess of one year as of September 29, 2007, are as follows (in millions):
+
+                  Fiscal Years             
+ ───────────────────────────────────────────
+                          2008        155  
+                          2009        172  
+                          2010        173  
+                          2011        160  
+                          2012        148  
+                    Thereafter        617  
+  Total minimum lease payments      1,425  
+
+Accrued Warranty and Indemnifications
+
+The Company offers a basic limited parts and labor warranty on its hardware products. The basic warranty period for hardware products is typically one year from the date of
+purchase by the end-user. The Company also offers a 90-day basic warranty for its service parts used to repair the Company's hardware products. The Company provides currently
+for the estimated cost that may be incurred under its basic limited product warranties at the time related revenue is recognized. Factors considered in determining appropriate accruals for product
+warranty obligations include the size of the installed base of products subject to warranty protection, historical and projected warranty claim rates, historical and projected
+cost-per-claim, and knowledge of specific product failures that are outside of the Company's typical experience. The Company assesses the adequacy of its preexisting warranty
+liabilities and adjusts the amounts as necessary based on actual experience and changes in future estimates. For products accounted for under subscription accounting pursuant to SOP
+No. 97-2, the Company recognizes warranty expense as incurred.
+
+The
+Company periodically provides updates to its applications and system software to maintain the software's compliance with specifications. The estimated cost to develop such updates is accounted for
+as warranty costs that are recognized at the time related software revenue is recognized. Factors considered in determining appropriate accruals related to such updates include the number of units
+delivered, the number of updates expected to occur, and the historical cost and estimated future cost of the resources necessary to develop these updates.
+
+82
+
+The
+following table reconciles changes in the Company's accrued warranties and related costs (in millions):
+
+                                                    2007                2006                2005            
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Beginning accrued warranty and related costs      $          284      $          188      $          105  
+  Cost of warranty claims                                     (281                (267                (188  
+  Accruals for product warranties                              227                 363                 271  
+  Ending accrued warranty and related costs         $          230      $          284      $          188  
+
+The
+Company generally does not indemnify end-users of its operating system and application software against legal claims that the software infringes third-party intellectual property
+rights. Other agreements entered into by the Company sometimes include indemnification provisions under which the Company could be subject to costs and/or damages in the event of an infringement claim
+against the Company or an indemnified third-party. However, the Company has not been required to make any significant payments resulting from such an infringement claim asserted against itself or an
+indemnified third-party and, in the opinion of management, does not have a potential liability related to unresolved infringement claims subject to indemnification that would have a material adverse
+effect on its financial condition or operating results. Therefore, the Company did not record a liability for infringement costs as of either September 29, 2007 or September 30, 2006.
+
+Concentrations in the Available Sources of Supply of Materials and Product
+
+Certain key components including, but not limited to, microprocessors, enclosures, certain LCDs, certain optical drives, and application-specific integrated circuits ("ASICs")
+are currently obtained by the Company from single or limited sources which subjects the Company to supply and pricing risks. Many of these and other key components that are available from multiple
+sources including, but not limited to, NAND flash memory, DRAM memory, and certain LCDs, are at times subject to industry-wide shortages and significant commodity pricing fluctuations. In
+addition, the Company has entered into certain agreements for the supply of critical components at favorable pricing, and there is no guarantee that the Company will be able to extend or renew these
+agreements when they expire. Therefore, the Company remains subject to significant risks of supply shortages and/or price increases that can adversely affect gross margins and operating margins. In
+addition, the Company uses some components that are not common to the rest of the global personal computer, consumer electronics and mobile communication industries, and new products introduced by the
+Company often utilize custom components obtained from only one source until the Company has evaluated whether there is a need for and subsequently qualifies additional suppliers. If the supply of a
+key single-sourced component to the Company were to be delayed or curtailed, or in the event a key manufacturing vendor delays shipments of completed products to the Company, the Company's ability to
+ship related products in desired quantities and in a timely manner could be adversely affected. The Company's business and financial performance could also be adversely affected depending on the time
+required to obtain sufficient quantities from the original source, or to identify and obtain sufficient quantities from an alternative source. Continued availability of these components may be
+affected if producers were to decide to concentrate on the production of common components instead of components customized to meet the Company's requirements. Finally, significant portions of the
+Company's CPUs, iPods, iPhones, logic boards, and other assembled products are now manufactured by outsourcing partners, primarily in various parts of Asia. A significant concentration of this
+outsourced manufacturing is currently performed by only a few of the Company's outsourcing partners, often in single locations. Certain of these outsourcing partners are the sole-sourced
+supplier of components and manufacturing outsourcing for many of the Company's key products, including but not limited to, assembly
+
+83
+
+of
+most of the Company's portable Mac computers, iPods, and iPhones. Although the Company works closely with its outsourcing partners on manufacturing schedules, the Company's operating results could
+be adversely affected if its outsourcing partners were unable to meet their production commitments.
+
+Long-Term Supply Agreements
+
+During the first quarter of 2006, the Company entered into long-term supply agreements with Hynix Semiconductor, Inc., Intel Corporation, Micron
+Technology, Inc., Samsung Electronics Co., Ltd., and Toshiba Corporation to secure supply of NAND flash memory through calendar year 2010. As part of these agreements, the Company
+prepaid $1.25 billion for flash memory components during 2006, which will be applied to certain inventory purchases made over the life of each respective agreement. The Company utilized
+$208 million of the prepayment as of September 29, 2007.
+
+Contingencies
+
+The Company is subject to certain other legal proceedings and claims that have arisen in the ordinary course of business and have not been fully adjudicated. In the opinion of
+management, the Company does not have a potential liability related to any current legal proceedings and claims that would individually or in the aggregate have a material adverse effect on its
+financial condition or operating results. However, the results of legal proceedings cannot be predicted with certainty. Should the Company fail to prevail in any of these legal matters or should
+several of these legal matters be resolved against the Company in the same reporting period, the operating results of a particular reporting period could be materially adversely affected.
+
+Production
+and marketing of products in certain states and countries may subject the Company to environmental and other regulations including, in some instances, the requirement to provide customers
+the ability to return product at the end of its useful life, and place responsibility for environmentally safe disposal or recycling with the Company. Such laws and regulations have recently been
+passed in several jurisdictions in which the Company operates including various countries within Europe and Asia, certain Canadian provinces and certain states within the U. S. Although the Company
+does not anticipate any material adverse effects in the future based on the nature of its operations and the thrust of such laws, there is no assurance that such existing laws or future laws will not
+have a material adverse effect on the Company's financial condition or operating results.
+
+Note 9 - Segment Information and Geographic Data
+
+In accordance with SFAS No. 131, Disclosures about Segments of an Enterprise and Related Information, the Company reports
+segment information based on the "management" approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of the
+Company's reportable segments.
+
+The
+Company manages its business primarily on a geographic basis. Accordingly, the Company determined its operating segments, which are generally based on the nature and location of its customers, to
+be the Americas, Europe, Japan, Asia-Pacific, Retail, and FileMaker operations. The Company's four geographical segments, together with the Retail segment, all sell the same products to
+the same types of customers. The Company's reportable operating segments are comprised of the Americas, Europe, Japan, and Retail operations. The Americas, Europe, and Japan reportable segments
+exclude activities related to the Retail segment. The Americas segment includes both North and South America. The Europe segment includes European countries as well as the Middle East and Africa. The
+Retail segment operates Apple-owned retail stores in the U. S., Canada, Japan, the U. K. and Italy. Other operating segments include
+
+84
+
+Asia-Pacific,
+which includes Australia and Asia except for Japan, and the Company's subsidiary, FileMaker, Inc. Each reportable geographic operating segment provides similar
+hardware and software products, similar services and the accounting policies of the various segments are the same as those described in Note 1.
+
+The
+Company evaluates the performance of its operating segments based on net sales and operating income. Net sales for geographic segments are generally based on the location of the customers, and net
+sales for the Retail segment are based on sales from the Company's retail stores. Operating income for each segment includes net sales to third parties, related cost of sales, and operating expenses
+directly attributable to the segment. Advertising expenses are generally included in the geographic segment in which the expenditures are incurred. Operating income for each segment excludes other
+income and expense and certain expenses managed outside the operating segments. Costs excluded from segment operating income include various corporate expenses such as manufacturing costs and
+variances not included in standard costs, research and development, corporate marketing expenses, stock-based compensation expense, income taxes, various nonrecurring charges, and other separately
+managed general and administrative costs. The Company does not include intercompany transfers between segments for management reporting purposes. Segment assets exclude corporate assets such as cash,
+short-term and long-term investments, manufacturing facilities, miscellaneous corporate infrastructure, goodwill and other acquired intangible assets, and retail store
+construction-in-progress not subject to depreciation. Except for the Retail segment, capital asset purchases for long-lived assets are not reported to management by
+segment. Capital asset purchases by the Retail segment were $294 million, $200 million, and $132 million for 2007, 2006, and 2005 respectively.
+
+From
+the establishment of the Retail segment in fiscal 2001 through the quarter ended March 31, 2007, Company management assessed the segment's operating performance differently from the
+Company's other operating segments. Because the Company's Retail initiative was an unproven concept at inception, management chose to measure the Retail segment's performance in a manner that would
+allow comparability to the Company's major channel partners operating retail stores in the U. S. There were three significant differences in the measurement of the Retail segment's results relative to
+the Company's other operating segments. First, the Retail segment's operating income reflected cost of sales for Apple products at amounts normally charged to Apple's major U. S. channel partners for
+the same products, less the cost of the Company's sales programs and other costs to support those partners. Second, the cost of sales of the Company's service and support contracts, including the
+AppleCare Protection Plan ("APP") and. Mac, were reflected in the Retail segment's results at the costs charged to major channel partners for such contracts, and all associated revenue was reflected
+in the Retail segment's results at the time of sale rather than being amortized over the lives of the respective agreements. Because the Company had not yet earned the revenue or incurred the cost
+associated with the sale of such contracts, an offset to these amounts was recognized in other segments' net sales and cost of sales. Third, the Company allocated certain expenses related to the
+operation of its high-profile stores to corporate marketing expense.
+
+Having
+operated the Company's Retail stores successfully for more than six years, management believes its Retail initiative is a proven concept that will continue to be an integral element of the
+Company's distribution and marketing strategies. Additionally, the Company expects sales of iPhone by the Company's geographic and Retail operating segments to generate significant levels of deferred
+revenue and deferred cost of sales over time. In consideration of these factors, management has determined that beginning with the quarter ended June 30, 2007, aligning measurements for the
+performance of the Retail segment with those used for the Company's other operating segments provides the most meaningful information. Accordingly, management has begun to measure the Retail segment's
+operating performance in a manner
+
+85
+
+generally
+consistent with the Company's other operating segments. The cost of sales of the Company's products sold through the Retail segment is now reflected at amounts similar to the cost of sales
+of the same products reflected in the Company's other operating segments. Revenue from APP and. Mac contracts sold through the Retail segment is now being recognized over the lives of the respective
+service agreements. Additionally, the Retail segment is applying the same subscription accounting to iPhone net sales and cost of sales that the Company's other operating segments apply. Management
+believes aligning measurements for the performance of the Retail segment with those used for the Company's other operating segments will provide greater comparability with the rest of the Company's
+segments and allow for more meaningful assessment of the Retail segment's operating results. The Company has reclassified prior period operating segment results to reflect these changes in the
+measurement of the operating results for the Retail segment, along with the corresponding offsetting impact to the Company's other operating segments.
+
+The
+Company will continue to allocate certain operating expenses associated with its high-profile stores to corporate marketing expense to reflect the estimated Company-wide
+benefit. These high-profile stores are larger than the Company's typical retail stores and were designed to further promote brand awareness and provide a venue for certain corporate sales
+and marketing activities, including corporate briefings. The allocation of these operating costs to corporate expense is based on the amount incurred for a high-profile store in excess of
+that incurred by a more typical Company retail location. The Company had opened a total of eight high-profile stores as of September 29, 2007. Expenses allocated to corporate
+marketing resulting from the operations of high-profile stores were $39 million, $33 million, and $31 million for the years ended September 29, 2007,
+September 30, 2006, and September 24, 2005 respectively.
+
+86
+
+Summary
+information by operating segment follows (in millions):
+
+                                                        2007        2006        2005  
+ ──────────────────────────────────────────────────────────────────────────────────────
+  Americas:                                                                           
+  Net sales                                          $11,596      $9,415      $6,658  
+  Operating income                                    $2,949      $1,899        $970  
+  Depreciation, amortization, and accretion               $9          $6          $6  
+  Segment assets (a)                                  $1,497        $896        $705  
+  Europe:                                                                             
+  Net sales                                           $5,460      $4,096      $3,073  
+  Operating income                                    $1,348        $627        $465  
+  Depreciation, amortization, and accretion               $6          $4          $4  
+  Segment assets                                        $595        $471        $289  
+  Japan:                                                                              
+  Net sales                                           $1,082      $1,211        $924  
+  Operating income                                      $232        $208        $147  
+  Depreciation, amortization, and accretion               $3          $3          $3  
+  Segment assets                                        $159        $181        $165  
+  Retail:                                                                             
+  Net sales                                           $4,115      $3,246      $2,278  
+  Operating income                                      $875        $600        $396  
+  Depreciation, amortization, and accretion (b)          $88         $59         $43  
+  Segment assets (b)                                  $1,085        $651        $589  
+  Other Segments (c):                                                                 
+  Net sales                                           $1,753      $1,347        $998  
+  Operating income                                      $388        $235        $118  
+  Depreciation, amortization, and accretion               $3          $3          $2  
+  Segment assets                                        $252        $180        $133  
+
+(a)
+
+The
+Americas asset figures do not include fixed assets held in the U. S. Such fixed assets are not allocated specifically to the Americas segment and are included in the corporate
+assets figures below.
+
+(b)
+
+Retail
+segment depreciation and asset figures reflect the cost and related depreciation of its retail stores and related infrastructure. Retail store
+construction-in-progress, which is not subject to depreciation, is reflected in corporate assets.
+
+(c)
+
+Other
+Segments include Asia-Pacific and FileMaker.
+
+87
+
+A
+reconciliation of the Company's segment operating income and assets to the consolidated financial statements follows (in millions):
+
+                                                                                                                       2007                  2006                  2005              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Segment operating income                                                                                             $          5,792      $          3,569      $          2,096  
+  Other corporate expenses, net (a)                                                                                              (1,141                  (953                  (404  
+  Stock-based compensation expense                                                                                                 (242                  (163                   (49  
+                                                           Total operating income                                      $          4,409      $          2,453      $          1,643  
+  Segment assets                                                                                                       $          3,588      $          2,379      $          1,881  
+  Corporate assets                                                                                                               21,759                14,826                 9,635  
+                                                           Consolidated assets                                         $         25,347      $         17,205      $         11,516  
+  Segment depreciation, amortization, and accretion                                                                    $            109      $             75      $             58  
+  Corporate depreciation, amortization, and accretion                                                                               208                   150                   121  
+                                                           Consolidated depreciation, amortization, and accretion      $            317      $            225      $            179  
+
+(a)
+
+Corporate
+expenses include research and development, corporate marketing expenses, manufacturing costs and variances not included in standard costs, and other separately managed
+general and administrative expenses including certain corporate expenses associated with support of the Retail segment.
+
+No
+single customer or single country outside of the U. S. accounted for more than 10% of net sales in 2007, 2006, or 2005. Net sales and long-lived assets related to the U. S. and
+international operations are as follows (in millions):
+
+                                                       2007                  2006                  2005              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net sales:                                                                                                         
+  U. S.                                                $         14,128      $         11,486      $          8,194  
+  International                                                   9,878                 7,829                 5,737  
+                          Total net sales              $         24,006      $         19,315      $         13,931  
+  Long-lived assets:                                                                                                 
+  U. S.                                                $          1,752      $          1,150      $            738  
+  International                                                     260                   218                   175  
+                          Total long-lived assets      $          2,012      $          1,368      $            913  
+
+88
+
+Information
+regarding net sales by product is as follows (in millions):
+
+                                                                              2007                  2006                  2005              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Net sales:                                                                                                                                
+  Desktops (a)                                                                $          4,020      $          3,319      $          3,436  
+  Portables (b)                                                                          6,294                 4,056                 2,839  
+                                                     Total Mac net sales                10,314                 7,375                 6,275  
+  iPod                                                                                   8,305                 7,676                 4,540  
+  Other music related products and services (c)                                          2,496                 1,885                   899  
+  iPhone and related products and services (d)                                             123                     —                     —  
+  Peripherals and other hardware (e)                                                     1,260                 1,100                 1,126  
+  Software, service, and other net sales (f)                                             1,508                 1,279                 1,091  
+                                                     Total net sales          $         24,006      $         19,315      $         13,931  
+
+(a)
+
+Includes
+iMac, eMac, Mac mini, Power Mac, Mac Pro, and Xserve product lines.
+
+(b)
+
+Includes
+MacBook, iBook, MacBook Pro, and PowerBook product lines.
+
+(c)
+
+Consists
+of iTunes Store sales and iPod services, and Apple-branded and third-party iPod accessories.
+
+(d)
+
+Derived
+from handset sales, carrier agreements, and Apple-branded and third-party iPhone accessories.
+
+(e)
+
+Includes
+sales of Apple-branded and third-party displays, wireless connectivity and networking solutions, and other hardware accessories.
+
+(f)
+
+Includes
+sales of Apple-branded operating system and application software, third-party software, AppleCare, and Internet services.
+
+Note 10 - Related Party Transactions and Certain Other Transactions
+
+The Company entered into a Reimbursement Agreement with its CEO, Steve Jobs, for the reimbursement of expenses incurred by Mr. Jobs in the operation of his private plane
+when used for Apple business. The Company recognized a total of approximately $776,000, $202,000, and $1,100,000 in expenses pursuant to the Reimbursement Agreement during 2007, 2006, and 2005,
+respectively.
+
+In
+2006, the Company entered into an agreement with Pixar to sell certain of Pixar's short films on the iTunes Store. Mr. Jobs was the CEO, Chairman, and a large shareholder of Pixar. On
+May 5, 2006, The Walt Disney Company ("Disney") acquired Pixar, which resulted in Pixar becoming a wholly-owned subsidiary of Disney. Upon Disney's acquisition of Pixar, Mr. Jobs' shares
+of Pixar common stock were exchanged for Disney's common stock and he was elected to the Disney Board of Directors. Royalty expense recognized by the Company under the arrangement with Pixar from
+September 25, 2005 through May 5, 2006 was less than $1 million.
+
+89
+
+Note 11 - Selected Quarterly Financial Information (Unaudited)
+
+The following tables set forth a summary of the Company's quarterly financial information for each of the four quarters ended September 29, 2007 and September 30,
+2006 (in millions, except share and per share amounts):
+
+                                  Fourth Quarter      Third Quarter      Second Quarter             
+ ────────────────────────────────────────────────────────────────────────────────────────────────────
+  2007                                                                                              
+  Net sales                               $6,217             $5,410              $5,264      7,115  
+  Gross margin                            $2,090             $1,995              $1,849      2,220  
+  Net income                                $904               $818                $770      1,004  
+  Earnings per common share:                                                                        
+                                           $1.04              $0.94               $0.89       1.17  
+                                           $1.01              $0.92               $0.87       1.14  
+  2006                                                                                              
+  Net sales                               $4,837             $4,370              $4,359      5,749  
+  Gross margin                            $1,412             $1,325              $1,297      1,564  
+  Net income                                $542               $472                $410        565  
+  Earnings per common share:                                                                        
+                                           $0.63              $0.55               $0.49       0.68  
+                                           $0.62              $0.54               $0.47       0.65  
+
+Basic
+and diluted earnings per share are computed independently for each of the quarters presented. Therefore, the sum of quarterly basic and diluted per share information may not equal annual basic
+and diluted earnings per share.
+
+90
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+The
+Board of Directors and Shareholders
+
+We
+have audited the accompanying consolidated balance sheets of Apple Inc. and subsidiaries (the Company) as of September 29, 2007 and September 30, 2006, and the related
+consolidated statements of operations, shareholders' equity, and cash flows for each of the years in the three-year period ended September 29, 2007. These consolidated financial
+statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits.
+
+We
+conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In
+our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Apple Inc. and subsidiaries as of
+September 29, 2007 and September 30, 2006, and the results of their operations and their cash flows for each of the years in the three-year period ended September 29,
+2007, in conformity with U. S. generally accepted accounting principles.
+
+As
+discussed in Note 1 to the Consolidated Financial Statements, effective September 25, 2005, the Company adopted the provisions of Statement of Financial Accounting Standards
+No. 123R, Share-Based Payment.
+
+We
+also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), Apple Inc.'s internal control over financial reporting as of
+September 29, 2007, based on criteria established inInternal Control - Integrated Frameworkissued by the Committee of Sponsoring
+Organizations of the Treadway Commission (COSO), and our report dated November 15, 2007 expressed an unqualified opinion on the effectiveness of the Company's internal control over financial
+reporting.
+
+/s/
+KPMG LLP
+
+Mountain
+View, California
+
+91
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+The
+Board of Directors and Shareholders
+
+We
+have audited Apple Inc.'s internal control over financial reporting as of September 29, 2007, based on criteria established inInternal
+Control - Integrated Frameworkissued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Apple's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included
+in the accompanying Management's Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company's internal control over financial reporting
+based on our audit.
+
+We
+conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over
+financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit
+also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+A
+company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain
+to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that
+transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are
+being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are
+subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+In
+our opinion, Apple Inc. maintained, in all material respects, effective internal control over financial reporting as of September 29, 2007, based on criteria established inInternal Control - Integrated
+Frameworkissued by COSO.
+
+We
+also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), the consolidated balance sheets of Apple Inc. as of September 29,
+2007 and September 30, 2006, and the related consolidated statements of operations, shareholders' equity, and cash flows for each of the years in the three-year period ended
+September 29, 2007, and our report dated November 15, 2007 expressed an unqualified opinion on those consolidated financial statements.
+
+/s/
+KPMG LLP
+
+Mountain
+View, California
+
+92
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure

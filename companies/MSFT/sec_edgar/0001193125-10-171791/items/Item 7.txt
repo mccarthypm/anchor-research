@@ -1,0 +1,41 @@
+ITEM 7. MANAGEMENT’ S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+
+OVERVIEW AND OUTLOOK
+
+The following Management’s Discussion and Analysis (“ MD& A”) is intended to help the reader understand the results of operations
+and financial condition of Microsoft Corporation. MD& A is provided as a supplement to, and should be read in conjunction with, our financial statements and the accompanying notes to the financial statements (“ Notes”). We generate
+revenue by developing, manufacturing, licensing, and supporting a wide range of software products and services for many different types of computing devices. Our software products and services include operating systems for personal computers,
+servers, and intelligent devices; server applications for distributed computing environments; information worker productivity applications; business solutions applications; high-performance computing applications; software development tools; and
+video games. We provide consulting and product and solution support services, and we train and certify computer system integrators and developers. We also design and sell hardware, including the Xbox 360 gaming and entertainment console and
+accessories, the Zune digital music and entertainment device and accessories, and Microsoft PC hardware products. Online offerings and information are delivered to consumers through Bing, Windows Live, Microsoft Office Web Apps, our MSN portals and
+channels, and to businesses through Microsoft Online Services offerings, such as Microsoft Dynamics CRM Online, Exchange Online, Windows Azure, SQL Azure and SharePoint Online. We enable the delivery of online advertising across our broad range of
+digital media properties and on Bing through our proprietary adCenter platform.
+
+Our revenue historically has fluctuated quarterly and
+has generally been the highest in the second quarter of our fiscal year due to corporate calendar year-end spending trends in our major markets and holiday season spending by consumers. Our Entertainment and Devices Division is particularly seasonal
+as its products are aimed at the consumer market and are in highest demand during the holiday shopping season. Typically, the Entertainment and Devices Division has generated approximately 40% of its annual segment revenues in our second fiscal
+quarter. In addition, quarterly revenues may be impacted by the deferral of revenue. See the discussions below regarding the deferral of revenue related to eligible sales of the 2007 Microsoft Office system with a guarantee to be upgraded to the
+2010 Microsoft Office system at minimal or no cost (the “ Office 2010 Deferral”) and sales of Windows Vista with a guarantee to be upgraded to Windows 7 at minimal or no cost and of Windows 7 to original equipment manufacturers and
+retailers before general availability (the “ Windows 7 Deferral”).
+
+Global macroeconomic factors have a strong correlation to
+demand for our software, services, hardware, and online offerings. The unfavorable global economic environment adversely affected our business in fiscal year 2009 as consumers and businesses cut back on spending, which reduced PC shipments and IT
+investments. During fiscal year 2010, the environment began to improve. However, the current macroeconomic factors remain dynamic and uncertain and are likely to remain so into 2011. Irrespective of global economic conditions, we are positive
+about our relative market position, our current product portfolio and future product pipeline. Because we offer a wide range of products and services that enable companies to improve productivity and reduce costs, including cloud-based
+services, we believe that Microsoft is well-positioned to create new opportunities to increase revenue as the global economy improves. We remain focused on executing in the areas we can control by continuing to provide high value products at the
+lowest total cost of ownership while managing our expenses.
+
+Technological innovation is the foundation of our long-term growth and we
+intend to maintain our commitment to investment in research and development, engineering excellence, and delivering high-quality products and services to customers and partners. We continue to develop innovative software applications and solutions
+that we believe will enhance information worker productivity, improve communication and collaboration in work groups, aid business intelligence, and streamline processes for small and mid-sized businesses. To sustain growth in the face of
+competition from other vendors of proprietary and open source software, our goal is to deliver products that provide the best platform for network computing - software that is easiest to deploy and manage, and that is most secure - with
+the lowest total cost of ownership.
+
+22
+
+Table of Contents
+
+PART II
+
+Item 7

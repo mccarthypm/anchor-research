@@ -1,0 +1,41 @@
+ITEM 1A. RISK FACTORS
+
+Our operations and financial results are subject to various risks and uncertainties, including those described below, that could adversely affect
+our business, financial condition, results of operations, cash flows, and the trading price of our common stock.
+
+We face intense competition across
+all markets for our products and services, which may lead to lower revenue or operating margins.
+
+Competition in the technology sector
+
+Our competitors range in size from diversified global companies with significant research and development resources to small,
+specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources. Barriers to entry in our businesses generally are low and software products can be distributed broadly and
+quickly at relatively low cost. Many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services. Our ability to remain competitive depends
+on our success in making innovative products, devices, and services that appeal to businesses and consumers.
+
+Competition among platforms,
+ecosystems, and devices
+
+An important element of our business model has been to create platform-based ecosystems on which many
+participants can build diverse solutions. A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth. Establishing significant scale in the marketplace is
+necessary to achieve and maintain attractive margins. The strategic importance of developing and maintaining a vibrant ecosystem increased with the launch of the Windows 8 operating system, Surface, Windows Phone, and associated cloud-based
+services. We face significant competition from firms that provide competing platforms, applications, and services.
+
+  A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has been                                               
+
+  We derive substantial revenue from licenses of Windows operating systems on personal computers. We face substantial competitive challenges from competing                                             
+  platforms developed for new devices and form factors such as smartphones and tablet computers. These devices compete on multiple bases including price and the perceived utility of the device an...  
+  devices to perform functions that would have been performed by personal computers in the past. Even if many users view these devices as complementary to a personal computer, the prevalence of t...  
+  applications developers to our platforms. In addition, Surface competes with products made by our OEM partners, which may affect their commitment to our platform.                                    
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Competing platforms have applications marketplaces (sometimes referred to as “stores”) with scale and significant installed bases on mobile devices.                                                  
+  These applications leverage free and user-paid services that over time result in disincentives for users to switch to competing platforms. In order to compete, we must successfully enlist devel...  
+  ensure that these applications have high quality, customer appeal, and value. Efforts to compete with these application marketplaces may increase our cost of revenue and lower our operating mar...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+14
+
+Table of Contents
+
+PART I

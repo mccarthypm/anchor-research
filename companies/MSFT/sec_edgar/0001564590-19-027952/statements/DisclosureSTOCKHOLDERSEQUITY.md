@@ -1,0 +1,95 @@
+## DisclosureSTOCKHOLDERSEQUITY
+
+**Year Ended**
+
+|  | Jun 30, 2019 | Jun 30, 2018 | Jun 30, 2017 |
+| --- | --- | --- | --- |
+| **  STOCKHOLDERS' EQUITY** | NOTE 17 - STOCKHOLDERS’ EQUITY
+
+Shares Outstanding
+
+Shares of common stock outstanding were as follows:
+
+  (In millions)                                                
+  Year Ended June 30,                                          
+ ───────────────────────────────────────────────────────────────
+  Balance, beginning of year      7,677      7,708      7,808  
+  Issued                            116         68         70  
+  Repurchased                      (150        (99       (170  
+  Balance, end of year            7,643      7,677      7,708  
+
+Share Repurchases
+
+On September 16, 2013, our Board of Directors approved a share repurchase 
+program (“2013 Share Repurchase Program”) authorizing up to $40.0 billion in 
+share repurchases. The 2013 Share Repurchase Program became effective on October
+1, 2013, and was completed on December 22, 2016.
+
+On September 20, 2016, our Board of Directors approved a share repurchase 
+program authorizing up to an additional $40.0 billion in share repurchases 
+(“2016 Share Repurchase Program”). This share repurchase program commenced on 
+December 22, 2016 following completion of the 2013 Share Repurchase Program, has
+no expiration date, and may be suspended or discontinued at any time without 
+notice. As of June 30, 2019, $11.4 billion remained of the 2016 Share Repurchase
+Program.
+
+We repurchased the following shares of common stock under the share repurchase 
+programs:
+
+  (In millions)            Shares                                               
+  Year Ended June 30,        2019                                               
+ ───────────────────────────────────────────────────────────────────────────────
+─────────────────
+  First Quarter                         24       2,600      22      1,600       
+63       3,550  
+  Second Quarter                        57       6,100      22      1,800       
+59       3,533  
+  Third Quarter                         36       3,899      34      3,100       
+25       1,600  
+  Fourth Quarter                        33       4,200      21      2,100       
+23       1,600  
+  Total                                150      16,799      99      8,600      
+170      10,283  
+
+Shares repurchased in the first and second quarter of fiscal year 2017 were 
+under the 2013 Share Repurchase Program. All other shares repurchased were under
+the 2016 Share Repurchase Program. The above table excludes shares repurchased 
+to settle employee tax withholding related to the vesting of stock awards of 
+$2.7 billion, $2.1 billion, and $1.5 billion for fiscal years 2019, 2018, and 
+2017, respectively. All share repurchases were made using cash resources.
+
+Dividends
+
+Our Board of Directors declared the following dividends:
+
+  Declaration Date                                                              
+Amount                     
+  Fiscal Year 2019                                                              
+(In millions)              
+  September 18, 2018      November 15, 2018      December 13, 2018       0.46   
+$                   3,544  
+  November 28, 2018       February 21, 2019      March 14, 2019          0.46   
+3,526  
+ ───────────────────────────────────────────────────────────────────────────────
+───────────────────────────────
+  March 11, 2019          May 16, 2019           June 13, 2019           0.46   
+3,521  
+  June 12, 2019           August 15, 2019        September 12, 2019      0.46   
+3,516  
+  Total                                                                  1.84   
+$                  14,107  
+  Fiscal Year 2018                                                              
+  September 19, 2017      November 16, 2017      December 14, 2017       0.42   
+$                   3,238  
+  November 29, 2017       February 15, 2018      March 8, 2018           0.42   
+3,232  
+  March 12, 2018          May 17, 2018           June 14, 2018           0.42   
+3,226  
+  June 13, 2018           August 16, 2018        September 13, 2018      0.42   
+3,220  
+  Total                                                                  1.68   
+$                  12,916  
+
+The dividend declared on June 12, 2019 was included in other current liabilities
+as of June 30, 2019.
+ |  |  |

@@ -1,0 +1,23 @@
+## DisclosureDeferredIncomeTaxAssetsAndLiabilities
+
+**Year Ended**
+
+|  | Jun 30, 2010 | Jun 30, 2009 | Jun 30, 2008 |
+| --- | --- | --- | --- |
+| **      Deferred Income Tax Assets** |  |  |  |
+|         Stock-based compensation expense |  |  |  |
+|         Other expense items |  |  |  |
+|         Unearned revenue |  |  |  |
+|         Impaired investments |  |  |  |
+|         Other revenue items |  |  |  |
+|         Deferred income tax assets |  |  |  |
+| **      Deferred Income Tax Liabilities** |  |  |  |
+|         International earnings |  |  |  |
+|         Unrealized gain on investments |  |  |  |
+|         Other |  |  |  |
+|         Deferred income tax liabilities |  |  |  |
+|         Net deferred income tax assets |  |  |  |
+| **      Reported As** |  |  |  |
+|         Current deferred income tax assets |  |  |  |
+|         Long-term deferred income tax assets (liabilities) |  |  |  |
+|         Net deferred income tax assets |  |  |  |

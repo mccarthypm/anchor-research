@@ -1,0 +1,51 @@
+ITEM 7. MANAGEMENT’ S DISCUSSION AND ANALYSIS OFFINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“ MD& A”) is intended to help the reader understand the results of operations and financial condition of Microsoft Corporation. MD& A is provided as a supplement to, and should be read in conjunction with, our financial statements and the accompanying Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
+
+OVERVIEW
+
+Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to create local opportunity, growth, and impact in every country around the world. Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency. They also support new startups, improve educational and health outcomes, and empower human ingenuity.
+
+We generate revenue by licensing and supporting an array of software products; offering a wide range of cloud-based and other services to people and businesses; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience. Our most significant expenses are related to compensating employees; designing, manufacturing, marketing, and selling our products and services; datacenter costs in support of our cloud-based services; and income taxes.
+
+Highlights from fiscal year 2018 compared with fiscal year 2017 included:
+
+  Commercial cloud revenue, which primarily comprises Microsoft Office 365 commercial, Microsoft Azure, Microsoft Dynamics 365, and other cloud properties, increased 56% to $23.2 billion.  
+
+  Office Commercial revenue increased 11%, driven by Office 365 commercial revenue growth of 41%.  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Office Consumer revenue increased 11% and Office 365 consumer subscribers increased to 31.4 million.  
+
+  LinkedIn contributed revenue of $5.3 billion, driven by strong momentum across all business lines.  
+
+  Dynamics revenue increased 13%, driven by Dynamics 365 revenue growth of 65%.  
+ ─────────────────────────────────────────────────────────────────────────────────
+
+  Server products and cloud services revenue increased 21%, driven by Azure revenue growth of 91%.  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Enterprise Services revenue increased 5%.  
+ ─────────────────────────────────────────────
+
+  Windows original equipment manufacturer licensing (“ Windows OEM”) revenue increased 5%, driven by OEM Pro revenue growth of 11%.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Windows Commercial revenue increased 12%, driven by an increased volume of multi-year agreements.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Gaming revenue increased 14%, driven by Xbox software and services revenue growth of 20%, mainly from third-party title strength.  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Microsoft Surface revenue increased 16%, driven by a higher mix of premium devices and an increase in volumes sold, due to the latest editions of Surface.  
+
+  Search advertising revenue, excluding traffic acquisition costs, increased 16%, driven by higher revenue per search and search volume.  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+On June 4, 2018, we entered into a definitive agreement to acquire GitHub, Inc. for $7.5 billion in an all-stock transaction, which is expected to close by the end of the calendar year. On December 8, 2016, we completed our acquisition of LinkedIn Corporation for a total purchase price of $27.0 billion. LinkedIn has been included in our consolidated results of operations since the date of acquisition. Refer to Note 9 - Business Combinations of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.
+
+On December 22, 2017, the Tax Cuts and Jobs Act (“ TCJA”) was enacted into law, which significantly changes existing U. S. tax law and includes numerous provisions that affect our business. During fiscal year 2018, we recorded a net charge of $13.7 billion related to the TCJA. Refer to Note 13 - Income Taxes of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.
+
+We adopted the new accounting standards for revenue recognition and leases effective July 1, 2017. These new standards had a material impact in our consolidated financial statements. Beginning in fiscal year 2018, our financial results reflect adoption of the standards with prior periods restated accordingly. Refer to Note 1 - Accounting Policies of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.
+
+PART II

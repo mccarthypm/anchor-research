@@ -1,0 +1,5 @@
+## NotesToFinancialStatementsFairValueMeasurementInputsDisclosureTextBlock
+
+|  |
+| --- |
+| **      Fair Value Measurements** |

@@ -1,0 +1,36 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+INCOME STATEMENTS
+
+  Year Ended June 30,                           2013                  2012                  2011              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  (In millions, except per share amounts)                                                                     
+  Revenue                                       $         77,849      $         73,723      $         69,943  
+  Cost of revenue                                         20,249                17,530                15,577  
+  Gross profit                                            57,600                56,193                54,366  
+  Operating expenses:                                                                                         
+  Research and development                                10,411                 9,811                 9,043  
+  Sales and marketing                                     15,276                13,857                13,940  
+  General and administrative                               5,149                 4,569                 4,222  
+  Goodwill impairment                                          0                 6,193                     0  
+  Total operating expenses                                30,836                34,430                27,205  
+  Operating income                                        26,764                21,763                27,161  
+  Other income                                               288                   504                   910  
+  Income before income taxes                              27,052                22,267                28,071  
+  Provision for income taxes                               5,189                 5,289                 4,921  
+  Net income                                    $         21,863      $         16,978      $         23,150  
+  Earnings per share:                                                                                         
+  Basic                                         $           2.61      $           2.02      $           2.73  
+  Diluted                                       $           2.58      $           2.00      $           2.69  
+  Weighted average shares outstanding:                                                                        
+  Basic                                                    8,375                 8,396                 8,490  
+  Diluted                                                  8,470                 8,506                 8,593  
+  Cash dividends declared per common share      $           0.92      $           0.80      $           0.64  
+
+See accompanying notes.
+
+49
+
+Table of Contents
+
+PART II

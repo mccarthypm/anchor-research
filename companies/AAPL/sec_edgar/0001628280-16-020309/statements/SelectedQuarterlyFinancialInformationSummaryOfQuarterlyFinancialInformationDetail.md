@@ -1,0 +1,29 @@
+## SelectedQuarterlyFinancialInformationSummaryOfQuarterlyFinancialInformationDetail
+
+**Year Ended**
+
+|  | Sep 24, 2016 | Sep 26, 2015 | Sep 27, 2014 |
+| --- | --- | --- | --- |
+|     Revenue | 215,639 | 233,715 | 182,795 |
+| *      Foreign exchange contracts - Reclassification out of Accumulated Other Comprehensive Income - Unrealized Gains/Losses on Derivative Instruments* | 865 | 2,432 |  |
+| *      Other countries* | 93,623 | 95,436 | 83,248 |
+| *      CHINA* | 46,349 | 56,547 | 30,638 |
+| *      U.S.* | 75,667 | 81,732 | 68,909 |
+| *      Europe* | 49,952 | 50,337 | 44,285 |
+| *      Rest of Asia Pacific* | 13,654 | 15,093 | 11,248 |
+| *      Americas* | 86,613 | 93,864 | 80,095 |
+| *      Japan* | 16,928 | 15,706 | 15,314 |
+| *      Greater China* | 48,492 | 58,715 | 31,853 |
+| *      iPad* | 20,628 | 23,227 | 30,283 |
+| *      Mac* | 22,831 | 25,471 | 24,079 |
+| *      iPhone* | 136,700 | 155,041 | 101,991 |
+| *      Other Products* | 11,132 | 10,067 | 8,379 |
+| *      Services* | 24,348 | 19,909 | 18,063 |
+|     Gross Profit | 84,263 | 93,626 | 70,537 |
+|     Net Income | 45,687 | 53,394 | 39,510 |
+| *      Common Stock and Additional Paid-In Capital* |  |  |  |
+| *      Accumulated Other Comprehensive Income/(Loss)* |  |  |  |
+| *      Retained Earnings* | 45,687 | 53,394 | 39,510 |
+| **    Earnings Per Share** |  |  |  |
+|       Earnings Per Share (Basic) | 8.35 | 9.28 | 6.49 |
+|       Earnings Per Share (Diluted) | 8.31 | 9.22 | 6.45 |
