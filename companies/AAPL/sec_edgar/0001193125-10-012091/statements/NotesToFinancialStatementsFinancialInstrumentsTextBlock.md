@@ -1,5 +1,0 @@
-## NotesToFinancialStatementsFinancialInstrumentsTextBlock
-
-|  |
-| --- |
-| **      Financial Instruments** |

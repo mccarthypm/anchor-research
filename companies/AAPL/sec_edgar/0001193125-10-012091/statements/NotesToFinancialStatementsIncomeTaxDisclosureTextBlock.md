@@ -1,5 +1,0 @@
-## NotesToFinancialStatementsIncomeTaxDisclosureTextBlock
-
-|  |
-| --- |
-| **      Income Taxes** |
