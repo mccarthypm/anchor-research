@@ -12,6 +12,7 @@ from pathlib import Path
 from typing import Any
 
 from google.adk.tools import FunctionTool
+from sources.firebase_storage import FirebaseStorageService
 
 
 @dataclass
@@ -196,29 +197,49 @@ class CitationStore:
         return store
 
 
-def create_citation_tools(citation_store: CitationStore, companies_dir: Path, ticker: str) -> list[FunctionTool]:
+def create_citation_tools(
+    citation_store: CitationStore, companies_dir: Path | None, ticker: str
+) -> list[FunctionTool]:
     """
     Create citation management tools for the agent.
     
     Args:
         citation_store: The CitationStore instance to use
-        companies_dir: Base path to the companies directory
+        companies_dir: Deprecated - kept for compatibility but not used (files are in Firebase Storage)
         ticker: The stock ticker symbol
         
     Returns:
         List of FunctionTool instances for citation management
     """
     ticker = ticker.upper()
-    ticker_dir = companies_dir / ticker / "sec_edgar"
+    storage = FirebaseStorageService
     
-    def _find_line_numbers(file_path: str, content: str) -> tuple[int | None, int | None]:
-        """Find the line numbers where content appears in a file."""
+    def _find_line_numbers(
+        file_path: str, content: str, accession_number: str
+    ) -> tuple[int | None, int | None]:
+        """Find the line numbers where content appears in a file from Firebase Storage."""
         try:
-            path = Path(file_path)
-            if not path.exists():
+            # Parse the file path to extract the relative path
+            # file_path might be like "items/Item 7.txt" or "statements/CONSOLIDATEDBALANCESHEETS.md"
+            # or a full path like "companies/AAPL/sec_edgar/0000320193-23-000106/items/Item 7.txt"
+            if "/" in file_path:
+                # Extract the relative path (after accession_number)
+                parts = file_path.split("/")
+                try:
+                    idx = parts.index(accession_number)
+                    relative_path = "/".join(parts[idx + 1:])
+                except ValueError:
+                    # If accession_number not in path, assume it's already a relative path
+                    relative_path = file_path
+            else:
+                relative_path = file_path
+            
+            # Try to download the file from Firebase Storage
+            file_content = storage.download_file_text(ticker, accession_number, relative_path)
+            if file_content is None:
                 return None, None
             
-            lines = path.read_text(encoding="utf-8").splitlines()
+            lines = file_content.splitlines()
             full_text = "\n".join(lines)
             
             # Try to find the content in the file
@@ -286,32 +307,30 @@ def create_citation_tools(citation_store: CitationStore, companies_dir: Path, ti
         Returns:
             The created citation with its ID for reference, including line numbers
         """
-        # Determine the source file path
-        filing_dir = ticker_dir / source_filing
+        # Determine the source file path in Firebase Storage
+        item_file_path = f"items/{source_item}.txt"
+        statement_file_path = f"statements/{source_item}.md"
         
-        # Check if it's an item or statement
-        item_file = filing_dir / "items" / f"{source_item}.txt"
-        statement_file = filing_dir / "statements" / f"{source_item}.md"
-        
-        if item_file.exists():
-            source_file = str(item_file)
-        elif statement_file.exists():
-            source_file = str(statement_file)
+        # Check if it's an item or statement in Firebase Storage
+        if storage.file_exists(ticker, source_filing, item_file_path):
+            source_file = item_file_path
+        elif storage.file_exists(ticker, source_filing, statement_file_path):
+            source_file = statement_file_path
         else:
-            source_file = f"{filing_dir}/{source_item}"
+            source_file = source_item
         
         # Get filing date from metadata
         filing_date = "Unknown"
-        metadata_file = filing_dir / "filing.json"
-        if metadata_file.exists():
+        metadata_json = storage.download_file_text(ticker, source_filing, "filing.json")
+        if metadata_json:
             try:
-                metadata = json.loads(metadata_file.read_text())
+                metadata = json.loads(metadata_json)
                 filing_date = metadata.get("filing_date", "Unknown")
             except json.JSONDecodeError:
                 pass
         
         # Find line numbers for the citation
-        start_line, end_line = _find_line_numbers(source_file, content)
+        start_line, end_line = _find_line_numbers(source_file, content, source_filing)
         
         citation = citation_store.add(
             content=content,
@@ -358,8 +377,22 @@ def create_citation_tools(citation_store: CitationStore, companies_dir: Path, ti
                 "error": f"Citation {citation_id} not found"
             }
         
-        source_path = Path(citation.source_file)
-        if not source_path.exists():
+        # Parse the source file path to get relative path
+        source_file_path = citation.source_file
+        if "/" in source_file_path:
+            # Extract relative path (might be full path or already relative)
+            parts = source_file_path.split("/")
+            try:
+                idx = parts.index(citation.source_filing)
+                relative_path = "/".join(parts[idx + 1:])
+            except ValueError:
+                # If accession_number not in path, assume it's already a relative path
+                relative_path = source_file_path
+        else:
+            relative_path = source_file_path
+        
+        # Check if file exists in Firebase Storage
+        if not storage.file_exists(ticker, citation.source_filing, relative_path):
             return {
                 "success": False,
                 "error": f"Source file not found: {citation.source_file}",
@@ -367,7 +400,16 @@ def create_citation_tools(citation_store: CitationStore, companies_dir: Path, ti
             }
         
         try:
-            lines = source_path.read_text(encoding="utf-8").splitlines()
+            file_content = storage.download_file_text(
+                ticker, citation.source_filing, relative_path
+            )
+            if file_content is None:
+                return {
+                    "success": False,
+                    "error": f"Could not read source file: {citation.source_file}",
+                    "citation_id": citation_id
+                }
+            lines = file_content.splitlines()
         except Exception as e:
             return {
                 "success": False,

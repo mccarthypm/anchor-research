@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: stock-analysis-agent-config
+  labels:
+    app: stock-analysis-agent
+data:
+  PROJECT_ID: "anchor-research"
+  SEC_EDGAR_BUCKET: "sec-edgar-anchor-public"

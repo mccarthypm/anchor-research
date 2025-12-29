@@ -76,16 +76,9 @@ Examples:
     
     args = parser.parse_args()
     
-    # Validate ticker directory exists
-    companies_dir = Path(args.companies_dir)
-    ticker_dir = companies_dir / args.ticker.upper() / "sec_edgar"
-    
-    if not ticker_dir.exists():
-        print(f"\nError: No filings found for {args.ticker.upper()}")
-        print(f"Expected directory: {ticker_dir}")
-        print(f"\nTo download filings, run:")
-        print(f"  uv run python download_sec_data.py {args.ticker.upper()}")
-        sys.exit(1)
+    # Note: The agent uses Firebase Storage, not local directories
+    # The companies_dir parameter is kept for backward compatibility
+    # The agent will validate Firebase Storage has filings for the ticker
     
     # Import here to avoid import errors if dependencies aren't installed
     try:

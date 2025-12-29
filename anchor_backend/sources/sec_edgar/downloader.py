@@ -3,6 +3,7 @@ SEC filing downloader using edgartools.
 
 This module provides functionality to download SEC filings for companies
 and coordinate with the processor for extraction.
+Stores all files in Firebase Storage instead of local file system.
 """
 
 import os
@@ -10,6 +11,7 @@ from pathlib import Path
 
 from edgar import Company
 
+from sources.firebase_storage import FirebaseStorageService
 from sources.sec_edgar.processor import FilingProcessor, ProcessingResult
 
 
@@ -27,14 +29,14 @@ class FilingDownloader:
 
     def __init__(
         self,
-        base_dir: Path | str,
+        base_dir: Path | str | None = None,
         verbose: bool = False,
     ):
         """
         Initialize the filing downloader.
 
         Args:
-            base_dir: Base directory for storing processed filings
+            base_dir: Deprecated - kept for compatibility but not used (files go to Firebase Storage)
             verbose: Whether to print progress messages
 
         Raises:
@@ -47,9 +49,9 @@ class FilingDownloader:
                 f"Add EDGAR_IDENTITY=FirstName LastNameyour-email@example.com to your .env file."
             )
 
-        self.base_dir = Path(base_dir)
         self.verbose = verbose
         self.processor = FilingProcessor(base_dir, verbose=verbose)
+        self.storage = FirebaseStorageService
 
     def _log(self, message: str) -> None:
         """Print a message if verbose mode is enabled."""
@@ -58,24 +60,21 @@ class FilingDownloader:
 
     def get_local_filings(self, ticker: str) -> set[str]:
         """
-        Get set of accession numbers already downloaded locally.
+        Get set of accession numbers already downloaded to Firebase Storage.
 
         Args:
             ticker: Stock ticker symbol
 
         Returns:
-            Set of accession numbers that exist locally
+            Set of accession numbers that exist in Firebase Storage
         """
-        company_dir = self.base_dir / ticker
-        if not company_dir.exists():
+        try:
+            accessions = self.storage.list_filings(ticker)
+            return set(accessions)
+        except Exception as e:
+            if self.verbose:
+                print(f"Error listing filings from Firebase Storage: {e}")
             return set()
-
-        local_accessions = set()
-        for item in company_dir.iterdir():
-            if item.is_dir() and not item.name.startswith("."):
-                local_accessions.add(item.name)
-
-        return local_accessions
 
     def download_filings(
         self,

@@ -62,15 +62,22 @@ class StockAnalysisAgent:
             max_full_docs: Maximum documents to keep in full context
         """
         self.ticker = ticker.upper()
-        self.companies_dir = Path(companies_dir)
+        self.companies_dir = Path(companies_dir) if companies_dir else None
         self.model = model or DEFAULT_MODEL
         
-        # Verify ticker directory exists
-        self.ticker_dir = self.companies_dir / self.ticker / "sec_edgar"
-        if not self.ticker_dir.exists():
+        # Verify ticker has filings in Firebase Storage
+        from sources.firebase_storage import FirebaseStorageService
+        try:
+            accessions = FirebaseStorageService.list_filings(self.ticker)
+            if not accessions:
+                raise ValueError(
+                    f"No filings found for {self.ticker} in Firebase Storage. "
+                    f"Run 'uv run download_sec_data.py {self.ticker}' first."
+                )
+        except Exception as e:
             raise ValueError(
-                f"No filings found for {self.ticker}. "
-                f"Run 'uv run download_sec_data.py {self.ticker}' first."
+                f"Error checking Firebase Storage for {self.ticker}: {e}. "
+                f"Ensure Firebase is properly configured."
             )
         
         # Get company name from most recent filing
@@ -80,7 +87,7 @@ class StockAnalysisAgent:
         self.citation_store = CitationStore()
         self.context_manager = ContextManager(max_full_docs=max_full_docs)
         
-        # Create tools
+        # Create tools (companies_dir is deprecated but kept for compatibility)
         self.filing_tools = create_filing_tools(self.ticker, self.companies_dir)
         self.citation_tools = create_citation_tools(
             self.citation_store, self.companies_dir, self.ticker
@@ -107,16 +114,23 @@ class StockAnalysisAgent:
         self.runner: Runner | None = None
     
     def _get_company_name(self) -> str:
-        """Get the company name from the most recent filing metadata."""
-        for filing_dir in sorted(self.ticker_dir.iterdir(), reverse=True):
-            if filing_dir.is_dir():
-                metadata_file = filing_dir / "filing.json"
-                if metadata_file.exists():
+        """Get the company name from the most recent filing metadata in Firebase Storage."""
+        from sources.firebase_storage import FirebaseStorageService
+        try:
+            accessions = FirebaseStorageService.list_filings(self.ticker)
+            # Sort in reverse to get most recent first
+            for accession_number in sorted(accessions, reverse=True):
+                metadata_json = FirebaseStorageService.download_file_text(
+                    self.ticker, accession_number, "filing.json"
+                )
+                if metadata_json:
                     try:
-                        metadata = json.loads(metadata_file.read_text())
+                        metadata = json.loads(metadata_json)
                         return metadata.get("company", self.ticker)
                     except json.JSONDecodeError:
                         continue
+        except Exception:
+            pass
         return self.ticker
     
     async def _create_session_async(self) -> str:
@@ -196,6 +210,22 @@ class StockAnalysisAgent:
         
         return final_response
     
+    def chat(self, message: str) -> str:
+        """
+        Send a message to the agent and get a response (sync wrapper).
+        
+        Args:
+            message: The user's message/question
+            
+        Returns:
+            The agent's response
+        """
+        import asyncio
+        
+        # Use asyncio.run() which properly manages the event loop lifecycle
+        # The LITELLM_DISABLE_LOGGING env var prevents the logging worker conflicts
+        return asyncio.run(self.chat_async(message))
+    
     async def run_async(self):
         """
         Run the agent in an interactive loop (async).
@@ -212,9 +242,14 @@ class StockAnalysisAgent:
         
         await self.start_session_async()
         
+        import asyncio
+        loop = asyncio.get_running_loop()
+        
         while True:
             try:
-                user_input = input("You: ").strip()
+                # Use run_in_executor to avoid blocking the event loop on input()
+                user_input = await loop.run_in_executor(None, input, "You: ")
+                user_input = user_input.strip()
                 
                 if not user_input:
                     continue
@@ -232,13 +267,16 @@ class StockAnalysisAgent:
                 break
             except Exception as e:
                 print(f"\nError: {e}\n")
-    
+
     def run(self):
         """
-        Run the agent in an interactive loop (sync wrapper).
+        Run the agent in an interactive loop.
+        
+        Starts a session and continuously prompts for user input
+        until the user types 'quit' or 'exit'.
         """
         import asyncio
-        return asyncio.run(self.run_async())
+        asyncio.run(self.run_async())
     
     def get_session_summary(self) -> dict[str, Any]:
         """

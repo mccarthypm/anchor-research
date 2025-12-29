@@ -7,9 +7,19 @@ wheels/
 *.egg-info
 filings/
 
+
+# Source data files
+companies/
+
 # Virtual environments
 .venv
 
 # Environment variables (API keys)
 .env
 .env.local
+
+# Makefile runtime files
+.minikube-mount.pid
+
+# Kubernetes secrets files
+*secrets.yaml

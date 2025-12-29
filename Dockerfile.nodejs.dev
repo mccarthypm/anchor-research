@@ -1,0 +1,37 @@
+# Development Dockerfile for Next.js Web Application
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Install dependencies
+COPY anchor_web/package.json anchor_web/package-lock.json ./
+RUN npm ci
+
+# Copy config files needed for Next.js, TypeScript, and Tailwind
+COPY anchor_web/tsconfig.json anchor_web/next.config.ts anchor_web/postcss.config.mjs ./
+COPY anchor_web/next-env.d.ts ./
+
+# Create entrypoint script to ensure dependencies are installed
+RUN echo '#!/bin/sh' > /entrypoint.sh && \
+    echo 'if [ ! -d "node_modules" ] || [ ! "$(ls -A node_modules 2>/dev/null)" ]; then' >> /entrypoint.sh && \
+    echo '  echo "Installing dependencies..."' >> /entrypoint.sh && \
+    echo '  npm install' >> /entrypoint.sh && \
+    echo 'else' >> /entrypoint.sh && \
+    echo '  echo "Dependencies already installed"' >> /entrypoint.sh && \
+    echo 'fi' >> /entrypoint.sh && \
+    echo 'echo "Starting Next.js dev server..."' >> /entrypoint.sh && \
+    echo 'exec npm run dev' >> /entrypoint.sh && \
+    chmod +x /entrypoint.sh
+
+# Expose port
+EXPOSE 3000
+
+# Set environment variables
+ENV NODE_ENV=development
+ENV NEXT_TELEMETRY_DISABLED=1
+ENV PORT=3000
+ENV HOSTNAME="0.0.0.0"
+
+# Use entrypoint script
+ENTRYPOINT ["/entrypoint.sh"]
+

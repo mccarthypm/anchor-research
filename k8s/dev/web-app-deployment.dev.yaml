@@ -1,0 +1,81 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web-app
+  labels:
+    app: web-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: web-app
+  template:
+    metadata:
+      labels:
+        app: web-app
+    spec:
+      containers:
+      - name: web-app
+        image: web-app:dev
+        imagePullPolicy: Never  # Use local image for minikube
+        ports:
+        - containerPort: 3000
+          name: http
+        env:
+        - name: PORT
+          value: "3000"
+        - name: NODE_ENV
+          value: "development"
+        envFrom:
+        - secretRef:
+            name: web-app-secrets
+        - configMapRef:
+            name: web-app-config
+        volumeMounts:
+        # Mount the anchor_web/src directory for hot-reloading
+        - name: app-code
+          mountPath: /app/src
+        resources:
+          requests:
+            memory: "512Mi"
+            cpu: "200m"
+          limits:
+            memory: "1Gi"
+            cpu: "1000m"
+        # Disable health probes for dev mode (Next.js dev server starts faster)
+        # livenessProbe:
+        #   httpGet:
+        #     path: /
+        #     port: 3000
+        #   initialDelaySeconds: 60
+        #   periodSeconds: 10
+        # readinessProbe:
+        #   httpGet:
+        #     path: /
+        #     port: 3000
+        #   initialDelaySeconds: 30
+        #   periodSeconds: 5
+      volumes:
+      - name: app-code
+        hostPath:
+          path: /mnt/anchor-web/src
+          type: Directory
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: web-app
+  labels:
+    app: web-app
+spec:
+  type: NodePort  # Use NodePort to expose on local machine
+  ports:
+  - port: 3000
+    targetPort: 3000
+    nodePort: 30080  # Accessible at localhost:30080
+    protocol: TCP
+    name: http
+  selector:
+    app: web-app
+
